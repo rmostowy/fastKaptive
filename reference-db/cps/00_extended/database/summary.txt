@@ -1,0 +1,994 @@
+Escherichia_coli-O1:	galF HG rmlB rmlD rmlA rmlC wzx mnaA wekM wzy wekN wekO gnd ugd
+Escherichia_coli-O2:	galF rmlB rmlD rmlA fdtA fdtC fdtB wzx wekP rmlC wzy wekQ wekR yhhI_1 yhhI_2 yhhI_3 yhhI_4 wekS gnd ugd
+Escherichia_coli-O3:	galF yhhI_1 yhhI_2 wclR wzx wclS wzy fnlA qnlA wclT wclU wclV gnd ugd
+Escherichia_coli-O4:	galF HG_1 rmlB rmlD rmlA rmlC wzx wbuG wzy wbuH fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O5:	galF HG_1 HG_2 rmlB rmlA qdtA qdtC wbtC wzx wzy wbuM wbuN wbuO wdaK gnd ugd
+Escherichia_coli-O6:	galF wzx wzy wfeI wdaF wffD galE wbaD manC manB gnd ugd
+Escherichia_coli-O7:	galF rmlB rmlD rmlA rmlC wzx vioA vioB wbbA wbbB wzy wbbC wbbD manC manB gnd ugd
+Escherichia_coli-O8:	galF wzx wbsK wzy wfgM wegK wfdV gnd ugd
+Escherichia_coli-O9:	galF HG_1 HG_2 HG_3 wzb HG_4 HG_5 wcaJ wcnX wzy wekH gtf1 HG_6 wzx wclD gnd rmlB rmlA rmlD rmlC ugd
+Escherichia_coli-O10:	galF HG_1 rmlB rmlD rmlA rmlC per wzx HG_2 wbbQ wzy wekN wcmT vioB yhhI HG_3 wekS gnd ugd
+Escherichia_coli-O11:	galF wzx wdaD wzy wdaE gne wdaF gmd fcl gmm manC wdaG manB gnd ugd
+Escherichia_coli-O12:	galF wbrX wzx wzy wbuH fnl1 fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O13:	galF rmlB rmlD rmlA rmlC wzx wfgI wbsY wzy yfdG HG_1 HG_2 HG_3 HG_4 gnd ugd
+Escherichia_coli-O15:	galF yhhI wzx wbuS wzy fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O16:	galF rmlB rmlD rmlA rmlC wzx glf wzy wbbI wfaD weiM wcnZ gnd ugd
+Escherichia_coli-O17:	galF wbaC wbaD manC manB wzy wzx gnd ugd
+Escherichia_coli-O18ab:	galF HG_1 rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF wclR gnd ugd
+Escherichia_coli-O18ac:	galF rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF wclR gnd ugd
+Escherichia_coli-O19:	galF HG rmlB rmlD rmlA rmlC wzx wzy wbbQ_1 wbbQ_2 yhhI wbbQ_3 wbbG gnd ugd
+Escherichia_coli-O20:	galF wejR wejS wejT wzy wzx HG_1 wclP wbwV HG_2 murG gnd ugd
+Escherichia_coli-O21:	galF wzx wclN wclO wclP wzy wclQ gnd ugd
+Escherichia_coli-O22:	galF wfgO wbsK wfeA wzy wegH wbdM wzx galE gnd ugd
+Escherichia_coli-O23:	galF wzy_1 wclU wzx wzy_2 wbwJ wbtG_1 wbtG_2 galE gnd ugd
+Escherichia_coli-O24:	galF wfaM nnaD nnaB nnaC nnaA wfaN wzy wzx HG yhhI_1 yhhI_2 wfaO gnd ugd
+Escherichia_coli-O25:	galF rmlB rmlD rmlA rmlC wzx wekA wekB wzy weiJ wbuH fnl1 fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O26:	galF HG rmlB rmlD rmlA rmlC wzx wzy wbuA fnl1 fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O27:	galF wejU wzy wejV wejW wzx wejX wejY gnd HG ugd
+Escherichia_coli-O28ab:	galF amsE wffW wzx wfeI wzy wffX gnd ugd
+Escherichia_coli-O28ac:	galF wffW wzx wffX wzy wfeF wfbU HG gif gnd ugd
+Escherichia_coli-O29:	galF wffW wffX wffY wffZ wzx wzy wfgA fnlA fnlB fnlC wbuB wbuC gnd HG_1 HG_2 ugd
+Escherichia_coli-O30:	galF wffZ wzy wzx gtf1 wbsA gnd HG_1 yhhI HG_2 HG_3 ugd
+Escherichia_coli-O32:	galF wzx wzy wfeA wfeB wfeC wfeD wfeE gnd ugd
+Escherichia_coli-O33:	galF rmlA wzx wffG wzy waaX wbuU wbwC gnd ugd
+Escherichia_coli-O34:	galF HG_1 rmlB rmlD rmlA rmlC wzx glf HG_2 wzy wbuG wffY wegL manC manB gnd ugd
+Escherichia_coli-O35:	galF HG rmlB rmlD rmlA rmlC gna gne wzx wbpS wcnX wcnY wzy wcnZ gnd ugd
+Escherichia_coli-O36:	galF rmlB rmlD rmlA rmlC wzx HG_1 wcmU wzy wdaF gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia_coli-O37:	galF HG_1 galE wffW wzx HG_2 wzy wffH' wekY wdaK gnd ugd
+Escherichia_coli-O38:	galF wbsG wzy_1 wzx wclU wzy_2 galE wfdV gnd ugd
+Escherichia_coli-O39:	galF HG_1 rmlB rmlD rmlA rmlC vioA vioB wzx HG_2 wbnE wzy wfcC wekZ manC manB gnd ugd
+Escherichia_coli-O40:	galF HG_1 yhhI_1 yhhI_2 wffO yhhI_3 yhhI_4 yhhI_5 wffP wzy wffQ wzx HG_2 HG_3 wffR
+Escherichia_coli-O41:	galF wzx HG_1 wfaQ wzy wcmU HG_2 gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia_coli-O43:	galF wzx wdaD wcaF HG wzy wdaF gmd fcl gmm manC wdaG manB gnd ugd
+Escherichia_coli-O45:	galF rmlB wbhP wbhQ wbhR wbhS rmlC wbhT wzx wbhU wzy wbhV wbhW rmlA gghA HG gnd ugd
+Escherichia_coli-O46:	galF wfdR wzx_1 wzx_2 wfeA wzy HG wffJ gnd ugd
+Escherichia_coli-O48:	galF HG_1 rmlB rmlD rmlA rmlC wffH' wclY wekH wzx wfgO wzy gne gnd ugd
+Escherichia_coli-O49:	galF rmlB rmlD rmlA rmlC vioA wbdR phaJ wzx wbwV wzy wbsF wbsY galE gnd ugd
+Escherichia_coli-O51:	galF rmlB rmlD rmlA rmlC wzx wfgH wzy wbsW wbuG wbbG wekS gnd ugd
+Escherichia_coli-O52:	galF rmlB rmlA fcf1 fcf2 wbrV wzm wzt dmhB dmhA hddA gmhA hddC gmhB wbrW wbrX wfaH gnd ugd
+Escherichia_coli-O53:	galF HG_1 rmlB rmlD rmlA rmlC wbsW HG_2 wzx cotSA wzy wekO gnd ugd
+Escherichia_coli-O54:	galF HG_1 rmlB rmlD rmlA wzy wbbD wcnX wbuN wbuO wbwV wzx HG_2 wfdR rmlC gnd ugd
+Escherichia_coli-O55:	galF wbgM gmd gmm manC manB wbgN wzy wzx wbgO wbgP gnd wbdJ wbdK yhhI_1 yhhI_2 ugd
+Escherichia_coli-O56:	galF HG nnaD nnaB nnaC nnaA wfaP wfaQ wfaR wzy wzx gnd ugd
+Escherichia_coli-O58:	galF HG rmlB rmlD rmlA rmlC wzx wfeZ wffA wffB wffC wzy wffD wffE manC manB gnd ugd
+Escherichia_coli-O59:	galF wbbG wzy wejJ wfaV manC manB gnd wzx wclD ugd
+Escherichia_coli-O60:	galF manC manB wzm wzt HG_1 HG_2 mtfB gmd rmd wejJ wejK HG_3 ykoT HG_4 gnd ugd
+Escherichia_coli-O61:	galF elg1 elg2 elg3 elg4 elg5 elg6 weiH elg7 weiI weiJ wzx weiK wzy weiL gnd ugd
+Escherichia_coli-O62:	galF rmlB rmlD rmlA HG_1 rmlC wzx wekA wbaC wzy wbaD manC manB gnd ugd
+Escherichia_coli-O63:	galF yhhI qdtA HG wbsI wbuL fdtB wzx wbuN wbtE wzy wbuO wbuP rmlB rmlA gnd ugd
+Escherichia_coli-O64:	galF HG_1 HG_2 wbbD HG_3 HG_4 HG_5 wejW wzy weiD wzx gne HG_6 HG_7 yhhI gnd ugd
+Escherichia_coli-O65:	galF HG rmlB rmlA qdtA qdtC fdtB wzx wbqE wbqG wejX wzy wekY amsE gne gnd ugd
+Escherichia_coli-O66:	galF rmlB rmlA rmlC tll wzx wfaA wzy wfaB wfaC wfaD wfaE manC manB gnd ugd
+Escherichia_coli-O69:	galF HG_1 rmlB rmlD rmlA rmlC wffB wzx wfgG wfgH wzy wbbQ wclR HG_2 gnd ugd
+Escherichia_coli-O70:	galF HG rmlB rmlA wbsB wbtC wzx wbnC wbtE wzy wclF fcf1 wclZ yhhI qdtC gnd ugd
+Escherichia_coli-O71:	galF HG rmlB rmlD rmlA wdaK rmlC qdtA qdtB wzx wdaN wzy wdaM qdtC gnd ugd
+Escherichia_coli-O74:	galF HG rmlB rmlA fdtA qdtC fdtB wzx wbtE wbbD wzy wekY gnd ugd
+Escherichia_coli-O75:	galF HG rmlB rmlD rmlA rmlC wekX wzy wekY wekZ manC manB wzx gnd ugd
+Escherichia_coli-O76:	galF wbsL wzx qdtC wzy wbaS weiD galE gnd ugd
+Escherichia_coli-O78:	galF wejN wejO manC manB wejP wejQ wzy wejR wejS wejT wzx gnd ugd
+Escherichia_coli-O79:	galF HG rmlB rmlD rmlA rmlC wbdT wzy wbdU wzx wbdV wbdW wbdX manC manB gnd ugd
+Escherichia_coli-O80:	galF galE gmd fcl gmm manC manB wzx wbgN wbsK wbsG wzy wfeD gnd ugd
+Escherichia_coli-O81:	galF galE wffW wzx wffG wclN wzy wbsG wffI wffJ gnd ugd
+Escherichia_coli-O82:	galF wbqG wffW wzx wffG wzy_1 wzy_2 wcnV wcnW gnd ugd
+Escherichia_coli-O83:	galF wzx wzy wfeA wfeB wfeC wfeD wfeH gnd ugd
+Escherichia_coli-O84:	galF wzx wfeU rmlB wbdP wzy wffX wcmS gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia_coli-O85:	galF mnaA wzy wfbQ wzx wfbR wfbS glf wfbU gnd ugd
+Escherichia_coli-O86:	galF galE wbwH gmd fcl gmm manC manB wzx wbwI wzy wbwJ wbwK gnd ugd
+Escherichia_coli-O87:	galF wzx glf wfgL wzy wfgM wfgN wfgO gnd ugd
+Escherichia_coli-O88:	galF yhhI cat weiJ rmlB rmlA rmlC tll wzx wfcB wzy wfcC wffE manC manB gnd ugd
+Escherichia_coli-O89:	galF galE HG_1 wzm wzt wbtF wbdH HG_2 mtfB gnd wfdV HG_3 wejS wejR wejT HG_4 HG_5 ugd
+Escherichia_coli-O90:	galF galE wbwH gmd fcl gmm manC manB wzx wegH wzy wbwJ wbwK gnd ugd
+Escherichia_coli-O91:	galF HG rmlB rmlA wbsA wbsB wbsC wbsD wzx wbsE wbsF wbsG wzy gnd ugd
+Escherichia_coli-O92:	HG_1 wejR wejS wejT wzm wzt wbbD wejP HG_2 HG_3 gnd HG_4 HG_5 ugd
+Escherichia_coli-O93:	galF weiG wzx wzy HG wfdS wffQ manC manB gnd ugd
+Escherichia_coli-O95:	galF rmlB rmlA HG_1 wejT_1 gtf1 HG_2 fcf1 wejP wzm wzt HG_3 HG_4 wejT_2 gnd
+Escherichia_coli-O96:	galF wzx glf wfdK wzy wbdM wfeF wfbU gnd ugd
+Escherichia_coli-O97:	rmlB rmlA rmlD rmlC wekN wejT HG_1 HG_2 HG_3 HG_4 wzm wzt HG_5 HG_6 HG_7 HG_8 HG_9 gnd ugd
+Escherichia_coli-O98:	galF gna wbqB wzx wzy wbwU wbwV fnlA qnlA qnlB wbwW wbuC gnd ugd
+Escherichia_coli-O99:	galF manC manB wzm wzt wejH wejI gmd rmd wejJ wejK wejL gnd yfdG wfeI ugd
+Escherichia_coli-O100:	galF rmlB rmlD rmlA rmlC wffW wzx wffG wzy wekN wcmT gnd ugd
+Escherichia_coli-O101:	galF galE HG_1 wzm wzt wbtF wbdH HG_2 mtfB gnd HG_3 HG_4 HG_5 HG_6 HG_7 arnE ppm1 HG_8 ugd
+Escherichia_coli-O102:	galF HG rmlB rmlD rmlA rmlC wzx wfaE wzy wffH' wffI wffJ gne gnd ugd
+Escherichia_coli-O103:	galF HG rmlB rmlA wbtA wbtB wbtC wzx wbtD wbtE wzy wbtF wbtG galE gnd ugd
+Escherichia_coli-O104:	galF wckD nnaB nnaC nnaA wbwA wzy wbwB wzx wbwC gnd ugd
+Escherichia_coli-O105:	galF HG rmlB rmlD rmlA rmlC wbsV wzy wbsW wbsX wbsY wbsZ wzx gnd ugd
+Escherichia_coli-O107:	galF HG rmlB rmlD rmlA rmlC wzx wzy wclW wclX wclY wclZ gne gnd ugd
+Escherichia_coli-O108:	galF elg1 elg2 elg3 elg4 elg5 elg6 weiH elg7 weiI HG wzx wzy wfgA fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O109:	galF rmlB rmlA wzy weiM weiN weiO weiP weiQ wzx weiS rmlC tll weiT weiU gnd ugd
+Escherichia_coli-O110:	galF wbsH wbaT HG wzx capA wzy wbnD gnd ugd
+Escherichia_coli-O111:	galF wbdH gmd wbdI manC manB wbdJ wbdK wzx wzy wbdL wbdM gnd ugd
+Escherichia_coli-O112ab:	galF wzx wzy wfeF wfeG gae wfeH wfeI gne gnd ugd
+Escherichia_coli-O112ac:	galF wdaK wclY wzy pglJ wclW HG wzx gne gnd ugd
+Escherichia_coli-O113:	galF wzx wbnA wzy wbnB wbnC wbnD wbnE galE gnd ugd
+Escherichia_coli-O114:	galF HG_1 rmlB rmlA fdtA fdtC wbuL fdtB wzx wbuM wzy wbuN wbuO wbuP gnd ugd
+Escherichia_coli-O115:	galF HG_1 rmlB rmlD rmlA rmlC wegG wegH wzx HG_2 HG_3 wzy wegI wegJ wegK wegL manC manB gnd ugd
+Escherichia_coli-O116:	galF HG rmlB rmlA wzx vioA vioB wbqE wzy wfaQ wbdM wcmT gne gnd ugd
+Escherichia_coli-O118:	galF bcs1 wzx HG wzy wfgR wbuX wbuY wbuZ fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O119:	galF rmlB rmlD rmlA wekD wekE wekF wekG rmlC wekH wekI manC manB wzx wekJ wzy wekK gnd ugd
+Escherichia_coli-O120:	galF HG rmlB rmlD rmlA rmlC wzx wbsW wzy wbsV wbbQ wfgO gnd ugd
+Escherichia_coli-O121:	galF gna wbqB rmlB rmlA vioA wbqC wbqD wzx wbqE wbqF wzy wbqG wbqH wbqI gnd ugd
+Escherichia_coli-O123:	galF HG_1 rmlB rmlA wzx vioA wbqC HG_2 speG phaJ wbqE wzy wbuH fnlA qnlA qnjB wbuB wbuC gnd ugd
+Escherichia_coli-O124:	galF wzx wffB wfgG wcnW wzy_1 wzy_2 wfdV glf wfbU gnd ugd
+Escherichia_coli-O125:	galF wzx wbsK wbsF wzy gne wdaF gmd fcl gmm manC wdaG manB gnd ugd
+Escherichia_coli-O126:	galF HG wzy wbgK wbgL wbsT wbsU gmd fcl manC manB wzx gnd ugd
+Escherichia_coli-O128:	galF wbsH gmd fcl gmm manC manB wbsI wzx wbsJ wbsK wbsL wzy galE gnd ugd
+Escherichia_coli-O130:	galF wzx wffF wffG wzy wffH' wffI wffJ gne gnd elg6 ugd
+Escherichia_coli-O131:	galF wckD nnaB nnaC nnaA wzx HG_1 wzy HG_2 wclG gnd ugd
+Escherichia_coli-O132:	galF HG_1 rmlB rmlD rmlA rmlC wzx glf wekZ wfgN wbsI wzy wbsW HG_2 gnd ugd
+Escherichia_coli-O133:	galF HG rmlB rmlD rmlA rmlC wzx wbwV wcmT wzy gnd ugd
+Escherichia_coli-O136:	galF wcnP wcnQ wcnR wcnS wcnT wzx HG wzy wfeD gnd ugd
+Escherichia_coli-O138:	galF HG rmlB rmlD rmlA rmlC wzx wfaF wfaG gna gne wfaH wzy gnd ugd
+Escherichia_coli-O139:	galF HG rmlB rmlD rmlA rmlC wzy wfaI wzx wfaJ wfaK wfaL gnd ugd
+Escherichia_coli-O140:	galF wzx glf HG_1 rmlB rmlD rmlA rmlC wfaE wzy HG_2 wfeH wfdV gnd ugd
+Escherichia_coli-O141:	galF HG rmlB rmlD rmlA rmlC wzx wfcA wfcB wzy wfcC wfcD manC manB gnd ugd
+Escherichia_coli-O142:	galF wbwH rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF galE gnd ugd
+Escherichia_coli-O143:	galF wfdP wfdQ wfdR wfdS wzx wfdT wfdU wzy gne wfdV gnd ugd
+Escherichia_coli-O144:	galF wzy wbaT wfcD wbaX manC manB wbuT wzx wfeF gnd ugd
+Escherichia_coli-O145:	galF wckD nanB nnaC nnaA wzx wzy wbuW wbuX wbuY wbuZ fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O146:	galF HG rmlB rmlD rmlA rmlC wbuD wzx wbuE wbwU wzy wbwV wbwW gnd ugd
+Escherichia_coli-O147:	galF rmlB rmlD rmlA rmlC wzx wzy wfbY wfbZ gnd ugd
+Escherichia_coli-O148:	galF HG rmlB rmlD rmlA rmlC wzx wzy wbbR wbbQ wbbG gnd ugd
+Escherichia_coli-O149:	galF HG rmlB rmlD rmlA rmlC wzx wbuT wzy wbuU wbuV gnd ugd
+Escherichia_coli-O150:	galF rmlB rmlD rmlA rmlC wfgF wzx wfgG wfgH wfgI wfgK wzy gnd wbqE yhhI_1 yhhI_2 ugd
+Escherichia_coli-O152:	galF HG rmlB rmlD rmlA rmlC wfgB wzx wfgC wzy wfgD wfgE gnd ugd
+Escherichia_coli-O153:	wcaM gne weiB wzx wzy wejX wbwC gnd ugd
+Escherichia_coli-O154:	galF rmlB rmlD rmlA rmlC wzx wejI gne wbsY wzy wekN gnd ugd
+Escherichia_coli-O155:	galF wclE wzy wclF wclG gnd wzx wclD ugd
+Escherichia_coli-O156:	galF HG_1 HG_2 wzx HG_3 wcmS wzy wcmU wfgR gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia_coli-O157:	galF wbdN wzy wbdO wzx per wbdP gmd fcl wbdQ manC manB wbdR gnd ugd
+Escherichia_coli-O158:	galF gne rmlB rmlD rmlA rmlC yhhI_1 wzx wzy wcmQ wcmR wcmS yhhI_2 wcmT yhhI_3 gnd
+Escherichia_coli-O159:	galF wzx wfgP wfgQ wzy wfgR gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia_coli-O160:	galF wzx wbgP wfeF wzy wfgC wdaK gnd HG ugd
+Escherichia_coli-O161:	galF yhhI lea1 lea2 lea3 lea4 lea5 weiE lea6 lea7 wzx weiF wzy weiG gnd ugd
+Escherichia_coli-O163:	galF manC manB wzx wzy gumI wfeX fnlA qnlA wbpI wbuB wbuC gnd ugd
+Escherichia_coli-O165:	galF wcnP wcnQ wcnR wcnS wcnT wzx wcnU wzy wcnV wcnW gnd_1 yhhI_1 HG_1 HG_2 HG_3 yhhI_2 gnd_2 ugd
+Escherichia_coli-O166:	galF wzx weiA wzy weiB weiC weiD gne gnd ugd
+Escherichia_coli-O167:	galF wzx glf wfdF wfdG wfdH wzy wfdI wfdJ wfdK gnd ugd
+Escherichia_coli-O168:	galF wzx wfeU wfeV wfeW wzy wfeX gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia_coli-O169:	galF wbaS wbaT wzy wbaX wbaY manC manB yhhI_1 yhhI_2 yhhI_3 HG_1 wzx HG_2 gnd ugd
+Escherichia_coli-O170:	galF wzx glf wfbU_1 wbsG wzy wejW wfbU_2 gnd ugd
+Escherichia_coli-O171:	galF wckD nnaB nnaC nnaA yhhI wzx lst wzy wcnW wejW wbwC gnd ugd
+Escherichia_coli-O172:	galF wzx wzy wffP HG wbuH fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O173:	galF yhhI wzx wcmU gmd fcl gmm manC manB wcmV wzy wcmW wcmX gnd ugd
+Escherichia_coli-O174:	galF HG wzx wzy wejW wbwW gnd ugd
+Escherichia_coli-O175:	galF wzy wfgE wbaX wbaY manC manB wfeH wzx gnd ugd
+Escherichia_coli-O176:	galF yhhI_1 yhhI_2 HG wbaD wbaC manC manB wzy wzx gnd ugd
+Escherichia_coli-O177:	galF rmlB rmlD rmlA wzx rmlC wzy wbdY wbdZ fnl1 fnlB fnlC wbuB wbuC gnd ugd
+Escherichia_coli-O178:	galF wfdQ wbuO weiB wzx wzy wejX wbwC gnd ugd
+Escherichia_coli-O179:	galF wzx weiC wzy wbqF wegL wffD wbaD manC manB gnd ugd
+Escherichia_coli-O180:	galF HG_1 rmlB rmlD rmlA rmlC gna gfo fdtC wbsD wzx wzy qnjB HG_2 wekN wekO gnd ugd
+Escherichia_coli-O181:	galF wffI wfgC fnlA qnlA qnlB wbuB wbuC wzy wzx HG gne gnd ugd
+Escherichia_coli-O182:	galF weiO weiP weiQ wzx fnlA wekJ wzy wbsG weiG gnd ugd
+Escherichia_coli-O183:	galF wbaS wbaT wzy wbaX wbaY manC manB wbaM wzx gnd ugd
+Escherichia_coli-O184:	galF rmlB rmlA fdtA wbtB fdtB wzx HG wzy wdaF gmd fcl gmm manC wdaG manB gnd ugd
+Escherichia_coli-O185:	galF wbwW wbuN wbuO wzy wejW wzx wclW gne gnd ugd
+Escherichia_coli-O187:	galF HG rmlB rmlA fdtA qdtC wbtC wzx wbtE wzy weiB wejX wbaX wegL manC manB gnd ugd
+Escherichia_coli-OX13:	galF wzx HG_1 cat wzy HG_2 wbuN wbuO wbgL gmd fcl gmm manC manB wbbD HG_3 gnd ugd
+Escherichia_coli-OX18:	galF wzx wzy waaX wclW tolB amsE gnd ugd
+Escherichia_coli-OX25:	galF wzx mtfB pglJ wzy cotSA wfaV manC manB gnd ugd
+Escherichia_coli-OX28:	galF HG_1 rmlB rmlD rmlA rmlC wzx wbnC wfcA wekA wffD wcnW HG_2 ltrA yhhI gnd ugd
+Salmonella_enterica-E1:	galF rmlB rmlD rmlA rmlC wzx wzy wbaO wbaN manC manB wbaP HG gnd ugd
+Salmonella_enterica-D2:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV HG wzy wbaO wbaN manC manB wbaP gnd ugd
+Salmonella_enterica-O6comma14:	galF wbaC wbaD manC manB wzy wzx HG gnd ugd
+Salmonella_enterica-O11:	galF rmlB rmlD rmlA rmlC wdaA wzy wdaB wdaC manC manB wzx gnd ugd
+Salmonella_enterica-O13:	galF gne wfbG gmd fcl gmm manC manB wzx wzy wfbH wfbI gnd ugd
+Salmonella_enterica-O18:	galF wfbV wfbW manC manB wzy wzx wfbX gnd ugd
+Salmonella_enterica-O21:	galF wzx wdaH wzy wdaI wdaJ wdaK gne wdaL gnd ugd
+Salmonella_enterica-O28ab:	galF rmlB rmlA ftdA ftdC ftdB wzx wzy wbuM wbuN wbuO wbeD gnd ugd
+Salmonella_enterica-O28ac:	galF rmlB rmlD rmlA wdaK rmlC qdtA qdtB wzx wdaN wzy wdaM qdtC gnd ugd
+Salmonella_enterica-O39:	galF rmlB rmlA qdtA qdtC qdtB wzx wdaO wzy wdaP gmd fcl gmm manC wdaG manB gnd ugd
+Salmonella_enterica-O40:	galF gne_1 gne_2 HG wzx wzy wdaQ wdaR wdaS wdaT manC manB gnd ugd
+Salmonella_enterica-O41:	galF wbyJ manC manB wzx wzy wbuH fnlA qnlA qnlB wbwH wbuC gnd ugd
+Salmonella_enterica-O42:	galF rmlB rmlD rmlA rmlC wzx mnaA wekM wzy wekN wdaW gnd ugd
+Salmonella_enterica-O44:	galF wzx wdaX wzy wdaY wdaZ wdaW gnd ugd
+Salmonella_enterica-O47:	galF rib wzx wdbI wzy wdbJ wbuX wbuY wbuZ fnlA fnlB fnlC wbuB wbuC gnd HG ugd
+Salmonella_enterica-O50:	galF wbdM gmd fcl gmm manC manB wbdN wzy wzx wbdO wbdP gnd col1 col2 HG_1 HG_2 ugd
+Salmonella_enterica-O51:	galF wzy wdbK wzx wdbL wfbH wfbG gne HG_1 HG_2 gnd ugd
+Salmonella_enterica-O52:	galF wdbM wdbN wdbO wzy wdbP wzx gnd ugd
+Salmonella_enterica-O53:	galF rmlB rmlD rmlA wzx glf wzy wdbQ wdbR rmlC wdaC HG gne gnd ugd
+Salmonella_enterica-O55:	galF rmlB rmlA fdtA fdtC fdtB wzx wdbT wdbU wzy wdbV wfbG gne gnd HG ugd
+Salmonella_enterica-O56:	galF rmlB vioA wdbW weiE wzx wzy wdbX wdbY wdbZ wfbG gne rmlA gnd ugd
+Salmonella_enterica-O58:	galF rmlB rmlA wzx vioA wfbA wfbB wfbC wfbD wfbE wzy wfbF fnlA qblA qnlB wbwH wbuC gnd ugd
+Salmonella_enterica-O60:	galF rmlB rmlA fdtA fdtF fdtB wzx wdcI wdcJ wzy wdaT manC HG gnd ugd
+Salmonella_enterica-O61:	galF elb1 elb2 elb4 elb6 elb3 elb5 wdcK elb7 wdcL wzx wzy wdcM wbuX wbuY wbuZ fnlA fnlB fnlC wbuB wbuC gnd ugd
+Salmonella_enterica-O62:	galF rmlB rmlD rmlA rmlC gnaA gnaB wzx wbpS wcnX wcnY wzy wcnZ gnd ugd
+Salmonella_enterica-O63:	galF gne weiD_1 weiD_2 rmlB rmlA fdtA fdtC fdtB wzx wdcO wzy wdcP wdcQ gnd ugd
+Salmonella_enterica-O66:	galF HG wzx weiA weiB weiC weiD gne gnd ugd
+Salmonella_enterica-O67:	galF HG_1 HG_2 HG_3 amsI HG_4 HG_5 HG_6 wdcQ fdtC gmd fcl gmm HG_7 wzx HG_8 HG_9 manC manB wbaP gnd ugd
+Salmonella_enterica-A:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wbaU wbaN manC manB wbaP gnd ugd
+Salmonella_enterica-B1:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wbaU wbaN manC manB wbaP gnd ugd
+Salmonella_enterica-B2:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wzy wbaU wbaN manC manB wbaP gnd ugd
+Salmonella_enterica-D1:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wbaU wbaN manC manB wbaP gnd HG ugd
+Salmonella_enterica-C1:	galF wzy wbaB wbaC wbaD manC manB wzx gnd ugd
+Salmonella_enterica-C2:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaR wbaL wbaQ wzy wbaW wbaZ manC manB wbaP gnd ugd
+Klebsiella-K1:	galF cpsACP wzi wza wzb wzc wzx wclY wzy wcsS wcsT gmd wcaG wcaH wcaI wcaJ gnd manC manB ugd
+Klebsiella-K10:	galF cpsACP wzi wza wzb wzc wbaP wclQ wclP wzx wcuQ wcaN wcuK wzy wcsO wbaZ gnd manC manB ugd
+Klebsiella-K11:	galF cpsACP wzi wza wzb wzc wcaJ wzy wcuP wclO wcuC gnd HYP_PROT wbaZ wzx ugd
+Klebsiella-K12:	galF cpsACP wzi wza wzb wzc wbaP wcaA wclN wclM HYP_PROT wzy wckF wckG wckH wzx glf gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K13:	galF cpsACP wzi wza wzb wzc wcuD wclX wzy wcuF wzx wcuL wcoW HG120 wcaJ gnd manC manB ugd
+Klebsiella-K14:	galF cpsACP wzi wza wzb wzc kp14A wzx kp14C kp14D kp14E kp14F kp14G kp14H kp14I kp14J wcaJ gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K15:	galF cpsACP wzi wza wzb wzc wcaJ wceN wceM wcsR wcaN wzy wckI wzx gnd ugd
+Klebsiella-K16:	galF cpsACP wzi wza wzb wzc wzx wzy gtf1 vatD lacA sunS gmd fcl gmm HYP_PROT_1 wcaJ gnd HYP_PROT_2 manC manB ugd
+Klebsiella-K17:	galF cpsACP wzi wza wzb wzc wzy wctR wctS wctT wctU wcaJ wcmZ wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K18:	galF cpsACP wzi wza wzb wzc wcaJ wcaA wcuM wbbL wckF wzy HYP_PROT wcuH wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K19:	galF cpsACP wzi wza wzb wzc wcaJ wcuF wcmY wzx wctW wctX wzy HYP_PROT gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K2:	galF cpsACP wzi wza wzb wzc orf7 orf8 orf9 orf10 wzx orf12 orf13 wcaJ gnd manC manB ugd
+Klebsiella-K20:	galF cpsACP wzi wza wzb wzc wbaP wzy orfY wcaN wcaO HYP_PROT wbaZ wzx gnd manC manB ugd
+Klebsiella-K21:	galF cpsACP wzi wza wzb wzc wcuD wzy wcuE wcuC wbaZ wbaP wcuA wcaL wzx gnd manC manB ugd
+Klebsiella-K22:	galF cpsACP wzi wza wzb wzc wzy HYP_PROT_1 HYP_PROT_2 wfeD wzx rutE HYP_PROT_3 HYP_PROT_4 wcaJ gnd HYP_PROT_5 ugd
+Klebsiella-K23:	galF cpsACP wzi wza wzb wzc wcaA wcaJ wckU wzy wckA HYP_PROT wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K24:	galF cpsACP wzi wza wzb wzc wcuD wcuC wcuV wbaZ wcaJ wcuE wcuG wzy wzx gnd manC manB ugd
+Klebsiella-K25:	galF cpsACP wzi wza wzb wzc wcaJ wzy wfeD HYP_PROT wcuB wzx gnd ugd
+Klebsiella-K26:	galF cpsACP wzi wza wzb wzc wzx wcuE wcuC wcuD wbaZ wbaP wcuU wcuH wctD wzy wcuL gnd manC manB
+Klebsiella-K27:	galF cpsACP wzi wza wzb wzc wcaJ wckI wckS wckR wzy wzx wckQ wcuJ wctE wctF gnd ugd
+Klebsiella-K28:	galF cpsACP wzi wza wzb wzc wckC wcuC wckD wzy wclS wcuE wzx wbaZ wcaJ gnd manC manB ugd
+Klebsiella-K29:	galF cpsACP wzi wza wzb wzc wbaP wcuD wcuE wbaZ wckG wckH wzx glf gnd manC manB
+Klebsiella-K3:	galF cpsACP wzi wza wzb wzc wcaJ HYP_PROT_1 HYP_PROT_2 pglJ HYP_PROT_3 HYP_PROT_4 wzx HYP_PROT_5 wbaZ gnd manC manB ugd
+Klebsiella-K30:	galF cpsACP wzi wza wzb wzc wcuL wzx wcuD wzy wckP wckO wckN HG76 wcuG wcaJ gnd manC manB ugd
+Klebsiella-K31:	galF cpsACP wzi wza wzb wzc wctG wcuP wzy wcuC wbaZ wcaJ wctH wctI wzx wcuJ gnd manC manB ugd
+Klebsiella-K32:	galF cpsACP wzi wza wzb wzc wbaP wctK wzx wctJ wzy orf12 wctL HG324 gnd rmlB rmlA rmlD rmlC
+Klebsiella-K33:	galF cpsACP HG75 HG74 HG73 wza wzb wzc wckM wckL wcuQ wzx wckK manC manB wbaZ wcaJ wzy wckJ gnd ugd
+Klebsiella-K34:	galF cpsACP wzi wza wzb wzc wcaA wcaJ rmlB rmlA rmlC rmlD wzy wclL HYP_PROT_1 HYP_PROT_2 HYP_PROT_3 gnd ugd
+Klebsiella-K35:	galF cpsACP wzi wza wzb wzc wzy wcuC wckM wckL wcuQ wzx wckK wbaZ wcaJ wclK gnd manC manB ugd
+Klebsiella-K36:	galF cpsACP wzi wza wzb wzc wcaJ wcaA rmlB rmlA rmlC wzy wckE wcuM HYP_PROT wckT wzx wcuJ rmlD gnd ugd
+Klebsiella-K37:	galF cpsACP wzi wza wzb wzc wzy wcmA wckA wcuW wzx HG127 wclZ HG87 wcaJ gnd wcuG_1 wcuG_2
+Klebsiella-K38:	galF cpsACP wzi wza wzb wzc wcaJ wzy wctM wcaN wzx wckS wckR HYP_PROT_1 HYP_PROT_2 gnd ugd
+Klebsiella-K39:	galF cpsACP wzi wza wzb wzc HYP_PROT_1 wzy mshA epsH epsJ wzx HYP_PROT_2 HYP_PROT_3 wbaZ wcaJ gnd manC manB ugd
+Klebsiella-K4:	galF cpsACP wcuG HG290 HG291 wza_1 wzb_1 wzc_1 HG292 HG293 wzx wcsW HG296 wcuD wzy wcuI wcuF manC wzi wza_2 wzb_2 wzc_2 wcaJ gnd
+Klebsiella-K40:	galF cpsACP wcpO orf5 rfaG HG75 HG74 HG73 wza wzb wzc wbaP wzy wcuD wcpR wzx wcpS wbaZ HG181 wcuE gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K41:	galF cpsACP wzi wza wzb wzc wbaP wcaA wclN wclM orf11 wzy wckF glf gnd_1 orf16 wzx gnd_2 rmlB rmlA rmlD rmlC
+Klebsiella-K42:	galF cpsACP wzi wza wzb wzc wcaJ wcuO wzy wcpV wcpW wcpX manC1 algC wckG wckH wzx glf gnd ugd
+Klebsiella-K43:	galF cpsACP wzi wza wzb wzc wcaJ wcuO wzy wcpY wcuE wbaZ wcuV wzx wcpZ gnd manC manB ugd
+Klebsiella-K44:	galF cpsACP wzi wza wzb wzc wcaA wcaJ wclJ wcuM wzy wcuH wzx HG191 gnd wcqA rmlB rmlA rmlD rmlC
+Klebsiella-K45:	galF cpsACP wzi wza wzb wzc wcaA wcaJ wcuP wclI wzy wcqB wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K46:	galF cpsACP wzi wza wzb wzc wcaJ wcuD wzy wcuC wcuI wcuF wcuV wclT wzx wckQ gnd manC manB ugd
+Klebsiella-K47:	galF cpsACP wzi wza wzb wzc wcaJ wcaA HYP_PROT wcqC wzy wcuT wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K49:	galF cpsACP wzi wza wzb wzc wbaP wzy wcuI wcuF wclK wclW wzx wcpF HG157 gnd manC manB
+Klebsiella-K5:	galF cpsACP wzi wza wzb wzc kp5A wzx kp5C kp5D kp5E kp5F kp5G kp5H wcaJ gnd manC manB ugd
+Klebsiella-K50:	galF cpsACP wzi wza wbaZ wbaP wcuU wcuH wzx HG156
+Klebsiella-K51:	galF cpsACP wzi wza wzb wzc wcaJ wcpB wzy wcuF wcpA wzx HYP_PROT wcoZ gnd ugd
+Klebsiella-K52:	galF cpsACP wzi wza wzb wzc wbaP rfbN wcoY wcoX wcuS wcaN wzy HG159 wcpG wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K53:	galF cpsACP wzi wza wzb wzc wcaJ wcuE wcuK wzy wbaZ wclH wckZ wcuT wzx gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K54:	galF cpsACP wzi wza wzb wzc wclU wzx wzy wckB wcoS gmd wcaG wcaH wcaI wcaJ gnd manC manB ugd
+Klebsiella-K55:	galF cpsACP wzi wza wzb wzc wcaA wcaJ wcpH wcpI wzy wcpJ wzx HYP_PROT gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K56:	galF cpsACP wzi wza wzb wzc wcaJ wckY wcpK wcpL wcpM wcuC wzy wzx wcuJ gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K57:	galF cpsACP wzi wza wzb wzc wcaJ wzx wckX wckW wzy HYP_PROT vanT wbaZ gnd manC manB ugd
+Klebsiella-K58:	galF cpsACP wzi wza wzb wzc wzx wclY wzy wcqS wcqT HYP_PROT wcqU gmd wcaG gmm wcaI wcaJ gnd manC manB ugd
+Klebsiella-K59:	galF cpsACP wzi wza wzb wzc wzy wcuI manC manB wbaZ wcaJ wcqV wckV wzx wckJ gnd ugd
+Klebsiella-K60:	galF cpsACP wzi wza wzb wzc wzy wcqW wcaO wbaZ wcaJ wcqX wcqY wcuH wzx HYP_PROT gnd manC manB ugd
+Klebsiella-K61:	galF cpsACP wzi wza wzb wzc wclQ wcuQ wzy wclP wzx wcqZ wcuK wbaZ wcaJ gnd manC manB ugd
+Klebsiella-K62:	galF cpsACP wzi wza wzb wzc wbaP kp62B kp62C kp62D wzy kp62F kp62G kp62H wzx gnd manC manB ugd
+Klebsiella-K63:	galF cpsACP wzi wza wzb wzc wbaP wcsD wzx wzy wcsE gmd wcaG HG252 wcaI HG253 gnd manC manB ugd
+Klebsiella-K64:	galF cpsACP wzi wza wzb wzc wzx wcoV HYP_PROT wzy wcoU wcoT wcsF wcuK wbaZ wcaJ gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K65:	galF cpsACP wzi wza wzb wzc wzy wcuC wcuE wcuO wbaZ wcaJ wzx wcuN wcuS rmlA rmlC rmlD gnd manC manB
+Klebsiella-K66:	galF cpsACP wzi wza wzb wzc wbaP wcuI wzy wckC wcuD HG202 wbaZ wzx HG203 wcqF gnd manC manB ugd
+Klebsiella-K67:	galF cpsACP wzi wza wzb wzc wzy wcuI wckZ wclH wcqG wcqH wzx wcuC wbaZ wcaJ gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K68:	galF cpsACP wzi wza wzb wzc wbap wzx wclV wckX wckW wzy manC manB wbaZ wcuC gnd HG209
+Klebsiella-K69:	galF cpsACP wzi wza wzb wzc wcuL wzx wcuD wzy wckP wckO wckN HG76 wcuG manC manB wcaJ gnd wcql
+Klebsiella-K7:	galF cpsACP wzi wza wzb wzc wcuE wckC wcuC wzy wckD wclS wcuJ wzx wbaZ wcaJ gnd manC manB ugd
+Klebsiella-K70:	galF cpsACP wzi wza wzb wzc wbaP wcuF wcmY wzy wclR wcuT wzx wcuN wcuC gnd rmlB rmlA rmlD rmlC
+Klebsiella-K71:	galF cpsACP wzi wza wzb wzc wcaA wcaJ wcqJ wcuP wclI HG213 wzy wcqK wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K72:	galF cpsACP wzi wza wzb wzc wcaA wcaJ wcuR wzx wcqL wzy HG219 gnd rmlB rmlA rmlD rmlC
+Klebsiella-K74:	galF cpsACP wzi wza wzb wzc wbaP wcuD wcuE wbaZ wzy HG90 wzx wcuL wcoW gnd manC manB ugd
+Klebsiella-K79:	galF cpsACP wzi wza wzb wzc wbaP wcaA wcuM wcuR HG89 wzy wzxC wcuU wcuH gnd rmlB rmlA rmlD rmlC
+Klebsiella-K8:	galF cpsACP wzi wza wzb wzc wzy wcsG wcsH wcsI wcsJ wcsK wcsL wcsM wzx wcaJ gnd ugd
+Klebsiella-K80:	galF cpsACP wzi wza wzb wzc wcaJ wcuD wcuE wbaZ wzy HYP_PROT wzx wcuN wcuS gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K81:	galF cpsACP wzi wza wzb wzc wcaJ wcaA wzy wclJ wcuM wcqM wcmZ wzx HYP_PROT gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K82:	galF cpsACP wzi wza wzb wzc wcaJ wckY wzy wckV wcqN wcuF HYP_PROT wzx wcqO gnd ugd
+Klebsiella-K9:	galF cpsACP wzi wza wzb wzc wbaP kp9B kp9C kp9D kp9E kp9F wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K101:	galF cpsACP wzi wza wzb wzc wbaP wcaA wcuP wcuR HYP_PROT wzy wcqP wzx wcuN gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K102:	galF cpsACP wzi wza wzb wzc wbaP wzy kpb3 kpb4 kpb5 kpb6 kpb7 kpb8 wzx gnd ugd
+Klebsiella-K103:	galF cpsACP wzi wza wzb wzc wbaP wcaA HYP_PROT_1 HYP_PROT_2 wcaN wzy wcpL wcuT wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K104:	galF cpsACP wzi wza wzb wzc HYP_PROT_1 wzx_1 wzx_2 HYP_PROT_2 HYP_PROT_3 HYP_PROT_4 HYP_PROT_5 HYP_PROT_6 wecB wzx_3 HYP_PROT_7 HYP_PROT_8 rfbp gnd manC manB ugd
+Klebsiella-K105:	galF cpsACP wzi wza wzb wzc wbaP HYP_PROT_1 HYP_PROT_2 wcaN HYP_PROT_3 HYP_PROT_4 HYP_PROT_5 wzx HYP_PROT_6 HYP_PROT_7 gnd rmlB HYP_PROT_8 HYP_PROT_9 HYP_PROT_10 ugd
+Klebsiella-K106:	galF cpsACP wzi wza wzb wzc wzy HYP_PROT_1 HYP_PROT_2 wecB wzx_1 HYP_PROT_3 wzx_2 HYP_PROT_4 rfbp gnd HYP_PROT_5 ugd
+Klebsiella-K107:	galF cpsACP wzi wza wzb wzc wbaP HYP_PROT_1 HYP_PROT_2 HYP_PROT_3 gnd HYP_PROT_4 HYP_PROT_5 HYP_PROT_6 HYP_PROT_7 ugd
+Klebsiella-K108:	galF cpsACP wzi wza wzb wzc wzxC HYP_PROT_1 HYP_PROT_2 HYP_PROT_3 HYP_PROT_4 HYP_PROT_5 HYP_PROT_6 HYP_PROT_7 wcaG HYP_PROT_8 wcaI rfbp wcaM gnd manC manB ugd
+Klebsiella-K109:	galF cpsACP wzi wza wzb wzc HYP_PROT_1 HYP_PROT_2 wzx HYP_PROT_3 HYP_PROT_4 HYP_PROT_5 HYP_PROT_6 manC manB HYP_PROT_7 gnd rmlB rmlA rmlD HYP_PROT_8 ugd
+Klebsiella-K110:	galF cpsACP wzi wza wzb wzc wcuE wckV HYP_PROT wctD wbaZ wbaP wcuC wzy wzx wcpZ gnd manC manB ugd
+Klebsiella-K111:	galF cpsACP wzi wza wzb wzc wzy_1 wckT HYP_PROT_1 HYP_PROT_2 wzy_2 wcuL wctD HYP_PROT_3 wcaJ gnd ugd
+Klebsiella-K112:	galF cpsACP wzi wza wzb wzc wbaP HYP_PROT wzy wcaO wcaN wbaZ wcuV wzx gnd manC manB ugd
+Klebsiella-K113:	galF cpsACP wzi wza wzb wzc wzx HYP_PROT_1 HYP_PROT_2 HYP_PROT_3 wcoS HYP_PROT_4 wcaG HYP_PROT_5 wcaI wcaJ gnd manC manB ugd
+Klebsiella-K114:	galF cpsACP wzi wza wzb wzc wbaP wzy wciP wzx wcqZ wcuQ HYP_PROT_1 wbaZ HYP_PROT_2 gnd manC manB ugd
+Klebsiella-K115:	galF cpsACP wzi wza wzb wzc wbaP wcuF wcmY wzy wcqJ wctX wcuC wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K116:	galF cpsACP wzi wza wzb wzc wcuE wckV HYP_PROT wctD wbaZ wbaP wcuC wzy wclT wzx wcpG gnd manC manB ugd
+Klebsiella-K117:	galF cpsACP wzi wza wzb wzc wbaP wcuD wcuE wbaZ wzy wcuC wcaL wcuJ wzx wcsR gnd manC manB ugd
+Klebsiella-K118:	galF cpsACP wzi wza wzb wzc wbaP wcaA HYP_PROT_1 wcoY wcaM wcqP wzx wcuN HYP_PROT_2 gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K119:	galF cpsACP wzi wza wzb wzc wzy HYP_PROT_1 HYP_PROT_2 HYP_PROT_3 HYP_PROT_4 wzx pglJ HYP_PROT_5 manC manB wcaJ gnd ugd_1
+Klebsiella-K120:	galF cpsACP wzi wza wzb wzc wbaP wctK wcqM wcuM wcuR HYP_PROT wzy wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K121:	galF cpsACP wzi wza wzb wzc wzx wclT wzy wctC wcqS wcqT wcqU gmd wcaG wcaH wcaI wcaJ HYP_PROT wcsO gnd manC manB ugd
+Klebsiella-K122:	galF cpsACP wzi wza wzb wzc wzy wcuC wckM wcuQ wcuD HYP_PROT wzx wbaZ wcaJ gnd manC manB ugd
+Klebsiella-K123:	galF cpsACP wzi wza wzb wzc wckV wcoX wzy wcuF wckY wzx HYP_PROT wcaJ gnd ugd
+Klebsiella-K124:	galF cpsACP wzi wza wzb wzc wbaP wctK wcuP wclJ wzy HYP_PROT wcuA wcaL wzx gnd wclK rmlB rmlA rmlD rmlC ugd
+Klebsiella-K125:	galF cpsACP wzi wza wzb wzc wbaP wcaN wzy HYP_PROT_1 HYP_PROT_2 wcaG wcuH wzx HYP_PROT_3 HYP_PROT_4 gnd ugd
+Klebsiella-K126:	galF cpsACP wzi wza wzb wzc wbaP HYP_PROT_1 HYP_PROT_2 wzx wcpS wcqP glf gnd ugd
+Klebsiella-K127:	galF cpsACP wzi wza wzb wzc wbaP wctK wzy HYP_PROT_1 HYP_PROT_2 wcpJ HYP_PROT_3 gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K128:	galF cpsACP wzi wza wzb wzc wbaP wcaA wzy HYP_PROT_1 HYP_PROT_2 wcuD wcuS wzx HYP_PROT_3 gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K130:	galF cpsACP wzi wza wzb wzc wbaP wzy wclQ wclP wzx wcuQ wcuK HYP_PROT wbaZ gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K131:	galF cpsACP wzi wza wzb wzc wbaP wcaA rmlB rmlA rmlC rmlD wcpI wzx wckG HYP_PROT_1 wzy wclI HYP_PROT_2 gnd ugd
+Klebsiella-K132:	galF cpsACP wzi wza wzb wzc wzy wcaN wcaO HYP_PROT_1 wclT manC manB wbaZ wcaJ gnd HYP_PROT_2 wcuV wzx wcpG ugd
+Klebsiella-K133:	galF cpsACP wzi wza wzb wzc wzy wcuD HYP_PROT wcuI manC manB wbaZ wcaJ wcuA wcaL wzx gnd ugd
+Klebsiella-K134:	galF cpsACP wzi wza wzb wzc wzx HYP_PROT_1 HYP_PROT_2 wzy K134_00011 HYP_PROT_3 HYP_PROT_4 wcaJ gnd ugd
+Klebsiella-K135:	galF cpsACP wzi wza wzb wzc wbaP wcaA HYP_PROT_1 wcuD HYP_PROT_2 wcuT wzy wzx gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K136:	galF cpsACP wzi wza wzb wzc wzy wcuO manC manB wbaZ wcaJ wcuC HYP_PROT wzx wcuI wcoX gnd ugd
+Klebsiella-K137:	galF cpsACP wzi wza wzb wzc wbaP HYP_PROT_1 HYP_PROT_2 wbaZ wcuS wzx wcqH wclK wzy wcuC gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K138:	galF cpsACP wzi wza wzb wzc wckM wcuQ wzy HYP_PROT wcuM wcuC wcuT wzx wbaZ wbaP gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K139:	galF cpsACP wzi wza wzb wzc wzy wcuH wctD wcuC wcuJ wcsF wzxC wbaZ wcaJ gnd manC manB ugd
+Klebsiella-K140:	galF cpsACP wzi wza wzb wzc wzy wckM wcuQ wcuD HYP_PROT wzx wbaZ wcaJ wcuC gnd manC manB ugd
+Klebsiella-K141:	galF cpsACP wzi wza wzb wzc wbaP wcaA wcsF wctL wzy HYP_PROT_1 HYP_PROT_2 wzx gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K142:	galF cpsACP wzi wza wzb wzc wcaA wcaJ wclJ wcuM wzy wcuH wzx HYP_PROT gnd wcqA rmlB rmlA rmlD rmlC ugd
+Klebsiella-K143:	galF cpsACP wzi wza wzb wzc wbaP HYP_PROT_1 wzy wcuD wcuE wbaZ HYP_PROT_2 HYP_PROT_3 wzx wcsW HYP_PROT_4 gnd manC manB ugd
+Klebsiella-K144:	galF cpsACP wzi wza wzb wzc wckM wcuI wzy wcuV HYP_PROT_1 wcuC wcuO wzx HYP_PROT_2 wbaZ wcaJ gnd manC manB rmlB rmlA rmlD rmlC ugd
+Klebsiella-K145:	galF cpsACP wzi wza wzb wzc wbaP HYP_PROT_1 wclI wcuR wckF HYP_PROT_2 wzy wcuM HYP_PROT_3 wcuH wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K146:	galF cpsACP wzi wza wzb wzc wzy wcuD wcuI wcuC wbaZ wbaP wctH HYP_PROT wzx wcuJ gnd manC manB ugd
+Klebsiella-K147:	galF cpsACP wzi wza wzb wzc wcaJ HYP_PROT_1 HYP_PROT_2 wcaO wcaN wbaZ neuA legI HYP_PROT_3 HYP_PROT_4 HYP_PROT_5 gnd manC manB ugd
+Klebsiella-K148:	galF cpsACP wzi wza wzb wzc wcaJ HYP_PROT_1 wcuP HYP_PROT_2 HYP_PROT_3 wbaZ wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K149:	galF cpsACP wzi wza wzb wzc wcaJ HYP_PROT_1 HYP_PROT_2 wzx HYP_PROT_3 HYP_PROT_4 HYP_PROT_5 HYP_PROT_6 gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K150:	galF cpsACP wzi wza wzb wzc wbaP HYP_PROT_1 wcaN HYP_PROT_2 HYP_PROT_3 HYP_PROT_4 HYP_PROT_5 HYP_PROT_6 wzx HYP_PROT_7 gnd HYP_PROT_8 gmd manC ugd
+Klebsiella-K151:	galF cpsACP wzi wza wzb wzc HYP_PROT_1 wcaJ HYP_PROT_2 pglI wzy HYP_PROT_3 wfgD HYP_PROT_4 HYP_PROT_5 gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K152:	galF cpsACP wzi wza wzb wzc wcaJ HYP_PROT_1 tuaG HYP_PROT_2 HYP_PROT_3 HYP_PROT_4 wfgD pglH wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K153:	galF cpsACP wzi wza wzb wzc HYP_PROT wcuD wcuC wcuI manC manB wbaZ wbaP wctH wctI wzx wcuJ gnd ugd
+Klebsiella-K154:	galF cpsACP wzi wza wzb wzc wzy wcuD wcuI wcuC wbaZ wbaP wcaA wcaL wzx gnd manC manB ugd
+Klebsiella-K155:	galF cpsACP wzi wza wzb wzc wcaJ HYP_PROT_1 epsH_1 HYP_PROT_2 HYP_PROT_3 HYP_PROT_4 wzy epsH_2 wzx glf gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K156_D1:	galF rmlB rmlD rmlA rmlC wzx HYP_PROT_1 wfgD wzy HYP_PROT_2 arnC HYP_PROT_3 HYP_PROT_4 HYP_PROT_5 HYP_PROT_6 gnd ugd
+Klebsiella-K157:	galF cpsACP wzi wza wzb wzc pglJ tuaH HYP_PROT_1 HYP_PROT_2 HYP_PROT_3 aceC HYP_PROT_4 wcaJ gnd HYP_PROT_5 manC manB ugd
+Klebsiella-K158:	galF cpsACP wzi wza wzb wzc wcaA wcaJ HYP_PROT_1 HYP_PROT_2 wfgD HYP_PROT_3 cysE HYP_PROT_4 HYP_PROT_5 wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K159:	galF cpsACP wzi wza wzb wzc wcaJ HYP_PROT_1 wzx wctJ wzy HYP_PROT_2 wctL HYP_PROT_3 gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-K160:	galF cpsACP wzi wza wzb wzc wzy wcaN wcaO HYP_PROT_1 wclT manC manB wbaZ wcaJ gnd cysE HYP_PROT_2 wzx wcpG ugd
+Klebsiella-K161:	galF cpsACP wzi wza wzb wzc wcaJ HYP_PROT_1 rmlB rmlA rmlC rmlD wcuP HYP_PROT_2 HYP_PROT_3 wzx gnd ugd
+Shigella-B2:	galF HG rmlB rmlD rmlA wzx wfdA wzy wfdB wfdC wfdD wfdE_1 wfdE_2 rmlC glf gnd ugd
+Shigella-B6:	galF wbaS wbaT wzy wbaX wbaY manC manB wbaM_1 HG_1 HG_2 wbaM_2 wzx gnd ugd
+Shigella-B7:	galF psb1 wcnQ psb3 psb4 psb5 psb6 wzx wfdL wzy wfdM_1 wfdM_2 wfdN wfdO glf_1 glf_2 gnd ugd_1 HG_1 HG_2 ugd_2
+Shigella-B9:	galF HG rmlB rmlD rmlA wbgQ wzy wbgR wzx rmlC wbgS gnd ugd
+Shigella-B10:	galF wbaS_1 wbaS_2 wbaT wzy wbaX wbaY manC manB wbaM wzx_1 wzx_2 gnd ugd
+Shigella-B12:	galF wzx wzy wbwE wbwF wbwG fnlA qnlA qnlB wbwH wbuC wbwI gnd ugd
+Shigella-B16:	galF wfaS wfaT wzx_1 wzx_2 wzy wfaU wfaV manC manB gnd ugd
+Shigella-B17:	galF wzx wfaW wfaX wzy wfaY gne wfaZ gnd ugd
+Shigella-B18:	galF HG rmlB rmlD rmlA rmlC yhhI wzx wbwX wzy wbwY wbwZ gnd ugd
+Shigella-D10:	galF mnaA rmlB rmlD rmlA rmlC wzx wffS wzy wffT manC yhhI_1 yhhI_2 wffU wffV gnd ugd
+Buttiauxella-NL1:	galF rmlB rmlD rmlA rmlC wzy wclJ wcuM wcqM wcmZ wzx wcaA wbaP gnd HG
+Buttiauxella-NL2:	galF rmlB rmlD rmlA rmlC wzx wfgD wfgI wfgK wzy HG gnd
+Cedecea-NL3:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC ilvG HG_2 wzx wbaR wzy wclY wbsY gnd
+Cedecea-NL4:	galF wfaD weiJ rmlB rmlA rmlC tll wzx wfcB wzy wfcC wffE manC manB gnd
+Cedecea-NL5:	galF rmlB rmlD rmlA rmlC weiO weiP weiQ wzx weiS weiN wzy wcsR wcnZ gnd
+Cedecea-NL6:	galF rmlB rmlA qdtA wbtB fdtB wzx wzy wbuM wbuN wbuO wbeD gnd
+Citrobacter-NL7:	galF HG wzy wzx wfgL wcqA gif wbaP gnd ugd
+Citrobacter-NL8:	galF rmlB rmlD rmlA rmlC wfgB wzx wfgC wzy wfgD wfgE gnd
+Citrobacter-NL9:	galF rmlB vioA wdbW weiE wzx wzy wdbX wdbY wdbZ wfbG rmlA gnd ugd
+Citrobacter-NL10:	galF rmlB rmlA wbtA wbtB fdtB wzx wdbT wdbU wzy wclY wdaK wbwI gnd ugd
+Citrobacter-NL11:	galF wzx wclI wcuR wckF wcaA wbaP rmlC rmlB rmlD rmlA wzy gnd ugd
+Citrobacter-NL12:	galF rmlB rmlA wbtA wbtB fdtB wzx wdbT wdbU wzy wclY wdaK HG gnd ugd
+Citrobacter-NL13:	galF wbwH wzx wzy wclU wdbV HG_1 HG_2 gnd ugd
+Citrobacter-NL14:	galF wzx wfaW wfaX wzy wfaY HG_1 HG_2 gne wfaZ gnd
+Citrobacter-NL15:	galF rmlB rmlD rmlA rmlC wzx glf wfgN wfeZ wctL wzy wbaO wbaN manC manB wbaP gnd ugd
+Citrobacter-NL16:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wzy wbaO wbaN manC manB wbaP gnd ugd
+Citrobacter-NL17:	galF rmlB rmlD rmlA rmlC qdtA fdtB wzx wdaN wbsW wzy wcpI wclH wekO gnd phaJ ftdC HG ugd
+Citrobacter-NL18:	galF wzx wzy wbdZ fnlA fnlB fnlC wcaI wcaJ HG_1 HG_2 per wbhS gnd
+Citrobacter-NL19:	galF wfaS HG_1 wfcC wzx fnlA fnlB fnlC wcaI wbaP HG_2 HG_3 per wbhS gnd ugd
+Citrobacter-NL20:	galF wzx wfaW wfaX wzy wfaY gne wfaZ gnd
+Citrobacter-NL21:	galF manC manB wzm wzt wejH HG_1 wbaD gmd rmd wejJ wejK HG_2 HG_3 arnF HG_4 gnd
+Citrobacter-NL22:	galF wzx wclI wcuR wckF wcaA wbaP rmlC rmlB rmlD rmlA gnd ugd
+Citrobacter-NL23:	galF gna wbqB wzx wzy wbwU wbwV fnlA qnlA qnlB wbwW wbuC gnd
+Citrobacter-NL24:	galF rmlB rmlD rmlA rmlC wzx wfaE wzy wffH' wffI wffJ gnd ugd
+Citrobacter-NL25:	galF rmlB rmlD rmlA rmlC wzx mnaA wcnZ HG wffU wffV gnd ugd
+Citrobacter-NL26:	galF wzx wdaH wzy wdaI wdaJ wdaK wdaL gnd ugd
+Citrobacter-NL27:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaR wbsI HG wzy wbaU wbaN manC manB wbaP gnd ugd
+Citrobacter-NL28:	galF wckD nanB nnaC nnaA wzx wzy wbuW wbuX wbuY wbuZ fnlA fnlB fnlC wbuB wbuC gnd ugd
+Citrobacter-NL29:	galF wzx wclI HG wcuR wckF wcaA wbaP rmlC rmlB rmlD rmlA gnd ugd
+Citrobacter-NL30:	galF rmlB rmlA qdtA fdtC wbuL wbtC wzx wbuM wbuN wbuO wdaK gnd ugd
+Citrobacter-NL31:	galF wffX wbdN HG wzx bcs1 rmlB wfgL gif wbaP gnd ugd
+Citrobacter-NL32:	galF manC manB wzm wzt HG_1 HG_2 wejI gmd rmd wejJ wejK mdoB HG_3 arnF HG_4 gnd ugd
+Citrobacter-NL33:	galF manC manB wzm wzt HG_1 HG_2 wejI gmd rmd wejJ wejK mdoB wbhP arnF HG_3 gnd ugd
+Citrobacter-NL34:	galF wzx skfB wfaQ HG wcmU wbsG gmd fcl gmm manC wfgS manB gnd
+Citrobacter-NL35:	galF wzx wzy wfeI wdaR wdaS wbaD manC manB gnd ugd
+Citrobacter-NL36:	galF wcnP wcnQ wcnR wcnS wcnT wzx wcnU wzy wcaN wfgL gif wbaP gnd ugd
+Citrobacter-NL37:	galF gfo gnaA fdtC wbsD wbdM wzx HG_1 HG_2 wbwZ qnjB wbuX wbwH wbaP wckD per wbhS gnd ugd
+Citrobacter-NL38:	galF wejR wejS wejT wzy wzx HG_1 wclP wbwV HG_2 murG gnd
+Citrobacter-NL39:	galF gna wbqB rmlB rmlA vioA wbqC wbqD wzx wbqE HG wbqG wbqH wbqI gnd
+Citrobacter-NL40:	galF mnaA rmlB rmlD rmlA rmlC HG_1 wffA wffB wekA HG_2 wffU wffV gnd ugd
+Citrobacter-NL41:	galF rmlB rmlD rmlA rmlC wzx wbwV wfaE wzy wfdV glf wfbU gnd ugd
+Citrobacter-NL42:	galF wzx wfaW wfaX wzy wfaY galE wfaZ gnd ugd
+Citrobacter-NL43:	galF rmlB rmlA fdtA fdtB wzx wbsE wzy wfgO wbeD gnd
+Citrobacter-NL44:	galF wbwH gmd fcl gmm manC manB wzx wegH wzy wfbH wfbI gnd ugd
+Citrobacter-NL45:	galF gna wbqB rmlB rmlA vioA wbqC wbqD wzx wbqE wzy wbqG wbqH wbqI gnd ugd
+Citrobacter-NL46:	galF rmlB rmlA wbsB wbtC wzx wbnC wbtE wzy wclF fcf1 wclZ gnd phaJ ftdC HG ugd
+Citrobacter-NL47:	galF fnlA fnlB fnlC wcaI wbaP HG_1 HG_2 per wbhS gnd HG_3 wzx wbdZ HG_4 ugd
+Citrobacter-NL48:	galF wzx wdaE wzy wdaF gmd fcl gmm manC wfgS manB gnd ugd
+Citrobacter-NL49:	galF wzm wzt rmlB rmlA rmlD rmlC fdtA HG dltC wbtB wbrX fdtB wdaN wcuR wekH gnd ugd
+Citrobacter-NL50:	galF rmlB rmlD rmlA rmlC wzx glf wfgN wfeZ wctL HG wzy wbaO wbaN manC manB wbaP gnd ugd
+Citrobacter-NL51:	galF rmlB rmlD rmlA rmlC wzy wdbQ wekH HG wfaO gnd ugd
+Citrobacter-NL52:	galF rmlB rmlA rmlC wzm wzt wekZ gspA wfdA glfT2 glf fcf1 gnd
+Citrobacter-NL53:	galF manC manB wzm wzt HG_1 HG_2 wejI gmd rmd wejJ wejK wejL arnF HG_3 gnd
+Citrobacter-NL54:	galF fnlA fnlB fnlC wcaI wbaP wbhR per wbhS gnd HG wzx wbdZ ugd
+Citrobacter-NL55:	galF rmlB rmlD rmlA rmlC wzx vioA vioB wecF gnaA wcuO HG wekO gnd ugd
+Citrobacter-NL56:	galF wzx wctW rmlB rmlD rmlA rmlC wcuM wbwV pyrE HG wzy wbaP gnd
+Citrobacter-NL57:	galF rmlB rmlD rmlA rmlC wzx vioA vioB wecF gnaA wcuO HG wekO gnd
+Cronobacter-NL58:	galF rmlB rmlA fdtA fdtB wzx wdcO wzy HG_1 wfeH HG_2 wfdV gnd HG_3 HG_4
+Cronobacter-NL59:	galF rmlB rmlA wbtA wbtB wbtC wzx wbtD wbtE wzy wbtF wfbG galE gnd
+Cronobacter-NL60:	galF rmlB rmlA fdtA fdtB wzx wdcO wzy HG wfeH wfdV gnd
+Enterobacter-NL61:	galF elg1 elg2 elg3 elg4 elg5 elg6 weiH elg7 weiI HG wzx wzy wfgA fnlA fnlB fnlC wbuB wbuC gnd rmlB rmlA ugd
+Enterobacter-NL62:	galF manC manB wzy wclQ wclP wzx wcuQ wbaZ wbaP rmlB rmlA gnd
+Enterobacter-NL63:	galF rmlB rmlD rmlA rmlC wzx wbwV wcmT wclK wzy gnd HG
+Enterobacter-NL64:	galF manC1 manB wzy wclQ wclP wzx wcuQ wbaZ wbaP HG rmlB rmlA rmlD rmlC gnd
+Enterobacter-NL65:	galF rmlB rmlA rmlD rmlC wekN wzm wzt ubiG wcuD wclK HG_1 HG_2 HG_3 gnd
+Enterobacter-NL66:	galF rmlB rmlA wzx vioA vioB wbqE weiB wzy wbbD wejW gnd HG
+Enterobacter-NL67:	galF rmlB rmlD rmlA rmlC elg1 elg2 elg3 elg4 elg5 elg6 lea7 wzx wbwA wctT wzy wekO gnd HG
+Enterobacter-NL68:	galF wbhP wbhQ wbhR wbhS rmlB rmlA wfbV wfbW manC manB wzy wzx gnd
+Enterobacter-NL69:	galF manC1 manB wzy wclQ wciP wzx wcuQ wbaZ wbaP HG rmlB rmlA rmlD rmlC gnd
+Enterobacter-NL70:	galF wzyE wbwV HG_1 HG_2 murG gnd rmlB rmlA ugd
+Enterobacter-NL71:	galF cat weiJ rmlB rmlA rmlC tll wzx wfcB wzy wfcC wffE manC manB gnd
+Enterobacter-NL72:	galF rmlB rmlD rmlA rmlC wzx wfaE wzy HG_1 wfeH wfdV gnd HG_2
+Enterobacter-NL73:	galF manC manB wzy wclQ wclP wzx wcuQ wbaZ wbaP rmlB rmlA gnd HG
+Enterobacter-NL74:	galF rmlB rmlD rmlA wzy wbbD wcnX wbuN wbuO wbwV wzx capA wfdR rmlC gnd
+Enterobacter-NL75:	galF rmlB wbhP wbhQ wbhR wbhS rmlC wbhT wzx wbhU wzy wbhV wbhW rmlA gghA gnd ugd
+Enterobacter-NL76:	galF rmlB rmlD rmlA rmlC fdtA fdtB wzx wbsE wzy wdbQ wfgK gnd ugd
+Enterobacter-NL77:	galF rmlB rmlD rmlA rmlC wzx wffC wzy wffD wegL manC manB wecH gnd
+Enterobacter-NL78:	galF rmlB wbhP wbhQ wbhR wbhS rmlC wbhT wzx wbhU wzy wbhV wbhW rmlA gghA gnd
+Enterobacter-NL79:	galF rmlB rmlD rmlA rmlC wffV wzx wcuO epsJ wzy galE gnd HG
+Enterobacter-NL80:	galF wbhP wbhQ wbhR wbhS rmlB rmlD rmlA wdaK rmlC qdtA fdtB wzx HG wctE wbbQ qdtC gnd
+Enterobacter-NL81:	galF rmlB rmlD rmlA rmlC per wzx wcmS wbaL wbaQ wzy wbaW wbaZ manC manB wbaP gnd
+Enterobacter-NL82:	galF rmlB rmlD rmlA rmlC fdtA wbtC wzx wbsE wzy wdbQ wfgK qdtC gnd HG
+Enterobacter-NL83:	galF wbhP wbhQ wbhR wbhS rmlB rmlA wfbV wfbW manC manB wzy wzx gnd ugd
+Enterobacter-NL84:	galF rmlB rmlD rmlA rmlC wzx wbwV wcmT wclK wzy gnd
+Enterobacter-NL85:	galF rmlB rmlD rmlA rmlC per wzx HG_1 wfdB wfdC wfdD wzy wfaH gnd HG_2
+Enterobacter-NL86:	galF manC1 manB wzy wclQ wciP wzx wcuQ wbaZ wbaP HG rmlB rmlA rmlD rmlC gnd ugd
+Enterobacter-NL87:	galF rmlB rmlA wbsB wbtC wzx wbnC wbtE wzy wclF fcf1 wclZ gnd ugd
+Enterobacter-NL88:	galF wbhP wbhQ wbhR wbhS rmlB rmlD rmlA wdaK rmlC qdtA wbtC wzx wbtE wzy wfbY qdtC gnd ugd
+Enterobacter-NL89:	galF rmlB rmlD rmlA rmlC wzx wzy wckZ wfeG wbgS gnd
+Enterobacter-NL90:	galF rmlB rmlD rmlA rmlC wzx wbwV wcmT wzy gnd HG
+Enterobacter-NL91:	galF rmlB rmlA rmlC rmlD wzm wzt HG_1 rmd wclI wekH gnd HG_2
+Enterobacter-NL92:	galF manC1 manB wzy wclQ wclP HG_1 HG_2 rmlB rmlA rmlD rmlC gnd
+Enterobacter-NL93:	galF wbhP wbhQ wbhR wbhS rmlB rmlD rmlA wdaK rmlC qdtA fdtB wzx HG wctE wbbQ qdtC gnd ugd
+Enterobacter-NL94:	galF rmlB rmlD rmlA wzy wbbD wcnX wbuN wbuO wbwV wzx capA wfdR rmlC gnd HG
+Enterobacter-NL95:	galF rmlB rmlD rmlA rmlC wfgF wzx wfgG wfgH wzy wekN wcmT gnd ugd
+Enterobacter-NL96:	galF rmlB rmlD rmlA rmlC wzx wfcA wfcB wzy wfcC wfcD manC manB gnd HG
+Enterobacter-NL97:	galF rmlB rmlD rmlA rmlC wzx wfaE wzy HG wfeH wfdV gnd
+Enterobacter-NL98:	galF rmlB rmlD rmlA rmlC wbsV wcqJ wekH wzy gnd ugd
+Enterobacter-NL99:	galF manC1 manB wzy wclQ wclP wzx wcuQ wbaZ wbaP HG_1 HG_2 rmlB rmlA rmlD rmlC gnd
+Enterobacter-NL100:	galF manC1 manB wzy wclQ wciP wzx wcuQ wbaZ HG_1 wbaP HG_2 rmlB rmlA rmlD rmlC gnd
+Enterobacter-NL101:	galF rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF wfbG gne gnd
+Enterobacter-NL102:	galF rmlB rmlA wzx vioA vioB wbqE weiB wzy wbbD wejW gnd
+Enterobacter-NL103:	galF rmlB rmlD rmlA rmlC per wzx wcmS wbaL wbaQ wzy wbaW wbaZ manC manB wbaP gnd ugd
+Enterobacter-NL104:	galF rmlB rmlA tll wzx wzy weiT HG wfaD rmlC gnd
+Enterobacter-NL105:	galF rmlB rmlD rmlA rmlC wzx wbuT wzy wbuU wbuV gnd HG
+Enterobacter-NL106:	galF rmlB rmlD rmlA rmlC wzx wbuT wzy wbuU wbuV gnd ugd
+Enterobacter-NL107:	galF wfgO wbsK wfeA wzy wegH wbdM wzx galE gnd rmlB rmlA ugd
+Enterobacter-NL108:	galF rmlB rmlD rmlA rmlC wbdT wzy wbdU wzx wbdV wbdW wbdX manC manB gnd
+Enterobacter-NL109:	galF rmlB rmlD rmlA rmlC wzx HG wctT wekO wcpI gnd
+Enterobacter-NL110:	galF rmlB rmlA qdtA qdtC fdtB wzx wzy wcmW wbsG wfdV gnd
+Enterobacter-NL111:	galF rmlB rmlA wzx vioA vioB wbqE HG_1 wclQ wejW glf wfbU gnd HG_2
+Enterobacter-NL112:	galF rmlB rmlD rmlA rmlC wzx wbuT wzy wbuU wbuV gnd
+Enterobacter-NL113:	galF wffW wffX wffY wffZ wzx wzy wfgA fnlA fnlB fnlC wbuB wbuC gnd rmlB rmlA ugd
+Enterobacter-NL114:	galF rmlB rmlD rmlA rmlC wzx HG_1 wfcB wfcD HG_2 wbgS gnd HG_3
+Enterobacter-NL115:	galF rmlB rmlA wzx vioA vioB wbqE HG wclQ wejW glf wfbU gnd
+Enterobacter-NL116:	galF mnaA rmlB rmlD rmlA rmlC wzx wffS wzy wffT manC manB wffU wffV gnd
+Enterobacter-NL117:	galF mnaA rmlB rmlD rmlA rmlC wzx wffS wzy wffT manC manB wffU wffV gnd HG
+Enterobacter-NL118:	galF mnaA rmlB rmlD HG_1 rmlA rmlC wzx wffS wzy wffT manC manB wffU wffV gnd HG_2
+Enterobacter-NL119:	galF rmlB rmlD rmlA rmlC HG_1 HG_2 wbuA HG_3 wfdV gnd
+Enterobacter-NL120:	galF rmlB rmlA rmlD rmlC wekN wzm wzt wbgS HG_1 HG_2 HG_3 gnd
+Enterobacter-NL121:	galF wbhP wbhQ wbhR wbhS rmlB rmlD rmlA rmlC wzx wzy wbwX wbbQ wbwZ gnd
+Enterobacter-NL122:	galF rmlB rmlA qdtA wbtC wzx wzy wbuM wbuN wbuO wdaK gnd ugd
+Enterobacter-NL123:	galF wbhP wbhQ wbhR wbhS rmlB rmlA wfbV wfbW manC manB wzy wzx gnd HG
+Enterobacter-NL124:	galF rmlB rmlA wbsA wbsB wbsC wbtC wzx wbtE HG wfeH gnd
+Enterobacter-NL125:	galF rmlB rmlD rmlA fdtA fdtC fdtB wzx wekP rmlC wfdB wfdC wfdD wzy wfaH HG gnd
+Enterobacter-NL126:	galF rmlB rmlA wzx vioA vioB wbqE wzy wfaQ wbdM wcmT gne gnd
+Enterobacter-NL127:	galF wbhP wbhQ wbhR wbhS rmlB rmlD rmlA wdaK rmlC qdtA wbtC wzx wbtE wzy wbwV gnd ugd
+Enterobacter-NL128:	galF rmlB rmlD rmlA rmlC wbuT wzx wfgH wzy wekN wcmT gnd ugd
+Enterobacter-NL129:	galF rmlB rmlD rmlA rmlC HG_1 HG_2 wbuA HG_3 wfdV gnd HG_4
+Enterobacter-NL130:	galF rmlB wbhP wbhQ wbhR wbhS rmlC wbhT wzx wbhU wzy wbhV wbhW rmlA gghA bglA gnd
+Enterobacter-NL131:	galF rmlB rmlD rmlA rmlC per wzx HG wfdB wfdC wfdD wzy wfaH gnd
+Enterobacter-NL132:	galF rmlB rmlA rmlD wekN wzm wzt vioA wfbA wfbB HG_1 HG_2 rmlC gnd
+Enterobacter-NL133:	galF rmlB rmlD rmlA rmlC wzxC wzy wclS wbaX kp62G wekH manC manB gnd HG
+Enterobacter-NL134:	galF rmlB rmlD rmlA fdtA fdtC fdtB wzx wekP rmlC wfdB wfdC wfdD wzy wfaH gnd
+Enterobacter-NL135:	galF rmlB rmlD rmlA rmlC wzy wbsW HG wekH wzx wcuP wfaD fcf1 gnd
+Enterobacter-NL136:	galF rmlB rmlA qdtA fdtC qdtB wzx wdbT wdbU wzy wbtF wfbG gne gnd
+Enterobacter-NL137:	galF rmlB rmlD rmlA rmlC wzxC wzy wclS wbaX kp62G wekH manC manB gnd
+Enterobacter-NL138:	galF manC1 manB HG_1 HG_2 wzy wclQ wclP wzx wcuQ wbaZ wbaP wcuE rmlB rmlA rmlD rmlC gnd
+Enterobacter-NL139:	galF rmlB rmlD rmlA rmlC wzy kp9C wcqH wzx wcuT wbbQ wbbG gnd
+Enterobacter-NL140:	galF rmlB rmlA wbsB wbtC wzx wbnC wbtE wzy wclF fcf1 wclZ gnd qdtC ugd
+Enterobacter-NL141:	galF rmlB rmlD rmlA rmlC wffH' wclY wekH wzx HG wfgO wzy gne gnd
+Enterobacter-NL142:	galF HG_1 rmlB rmlA fdtA qdtC wbtC wzx wbsE wzy HG_2 glf wfbU gnd
+Enterobacter-NL143:	galF rmlB rmlA wbtA wbtC wzx wdbT wdbU wzy wclY wdaK wbwI gnd ugd
+Enterobacter-NL144:	galF rmlB rmlD rmlA rmlC wzx HG_1 wckZ wbbG HG_2 HG_3 weiG gnd ugd
+Enterobacter-NL145:	galF rmlB rmlD rmlA rmlC wzx wbwV wcmT wzy gnd ugd
+Enterobacter-NL146:	galF rmlB rmlD rmlA rmlC wzx wbwV wcmT wzy gnd
+Enterobacter-NL147:	galF rmlB rmlD rmlA rmlC wzx wbuG wzy wbuH fnlA fnlB fnlC wbuB wbuC gnd
+Enterobacter-NL148:	galF manC1 manB wzy wclQ wclP wzx wcuQ wbaZ wbaP HG rmlB rmlA rmlD rmlC gnd ugd
+Enterobacter-NL149:	galF wbhP wbhQ wbhR wbhS rmlB rmlD rmlA rmlC wzx wzy wbwX wbbQ wbwZ gnd HG
+Enterobacter-NL150:	galF rmlB rmlD rmlA rmlC wzx HG_1 wckZ wbbG HG_2 weiG gnd ugd
+Enterobacter-NL151:	galF rmlB rmlD rmlA rmlC qdtA qdtC wbtC wzx wffH' wzy wfbY wfbZ gnd HG
+Enterobacter-NL152:	galF rmlB rmlD rmlA rmlC yhhI glf wzy wdcQ wfbU wzx wekM mnaA gnd
+Enterobacter-NL153:	galF rmlB rmlD rmlA rmlC fdtA wbtC wzx wbsE wzy wdbQ wfgK qdtC gnd
+Enterobacter-NL154:	galF rmlB rmlD rmlA rmlC wfgF wzx wfgG wfgH wfgI wfgK wzy gnd HG
+Enterobacter-NL155:	galF rmlB wbhP wbhQ wbhR wbhS rmlC wbhT wzx wbhU wzy wbhV wbhW rmlA gghA gnd HG
+Enterobacter-NL156:	galF rmlB rmlD rmlA rmlC per wzx HG_1 wfdB wfdC wfdD wzy wfaH HG_2 gnd
+Erwinia-NL157:	galF galE HG_1 rmlB rmlA fcf1 wzm wzt kp14H gif wfbU rfaG HG_2 gnd
+Erwinia-NL158:	galF galE rmlB rmlA fcf1 wzm wzt kp14H gif wfbU rfaG HG gnd
+Erwinia-NL159:	galF galE rmlB rmlD rmlA rmlC wzm wzt elmMI wcuD wbbQ wfaF gnd
+Erwinia-NL160:	galF galE wzm wzt gif wbrV rfaG wfdA HG gnd
+Erwinia-NL161:	galF galE rmlB rmlD rmlA rmlC wekN HG wzm wzt gnd
+Erwinia-NL162:	galF galE rfaG wzm wzt HG_1 HG_2 wdbN gnd
+Erwinia-NL163:	galF galE rmlB rmlD rmlA rmlC wzm wzt wbbG wbbQ wcnZ gnd
+Erwinia-NL164:	galF galE wbhQ rmlB rmlD rmlA rmlC wzx wbpS wcnX wcnY wzy wcnZ gnd
+Erwinia-NL165:	galF galE rmlB rmlD rmlA rmlC wekN wzm wzt ubiG wctL HG_1 HG_2 gnd
+Erwinia-NL166:	galF galE rmlB rmlA wbsA qdtA wbsC fdtB wzx wbtE HG wfeH gnd
+Erwinia-NL167:	galF galE wbhQ rmlB rmlD rmlA rmlC wzx wbuG wzy wdaF wdaP gmd fcl gmm manC wfgS manB HG gnd
+Erwinia-NL168:	galF galE rmlB rmlD rmlA rmlC wzm wzt elmMI wctL HG wbsX wfaL gnd
+Erwinia-NL169:	galF galE rmlB rmlD rmlA rmlC wzm wzt wcmW HG wekN wcnZ gnd
+Erwinia-NL170:	galF galE rmlB rmlD rmlA rmlC qdtA wbtC wzx wffH' HG wfbY wfbZ gnd
+Erwinia-NL171:	galF galE HG_1 HG_2 HG_3 HG_4 HG_5 HG_6 HG_7 rmlB rmlD rmlA rmlC wekN HG_8 wzm wzt gnd
+Erwinia-NL172:	galF galE rmlB rmlD rmlA rmlC wekN wzm wzt ubiG wctL gnd
+Erwinia-NL173:	galF galE manC manB gmd rmd wejJ wejK gnd
+Erwinia-NL174:	galF galE wzm wzt wcsR HG_1 kpb7 gif wckG rfaG wclK HG_2 gnd
+Erwinia-NL175:	galF galE manC manB wzm wzt HG_1 HG_2 mtfB gmd rmd wejJ wejK gnd
+Erwinia-NL176:	galF galE rmlB rmlD rmlA rmlC wbsV wcmZ wdaC wzy gnd
+Erwinia-NL177:	galF galE rmlB rmlD rmlA rmlC wekN wzm wzt bchM wctL HG_1 HG_2 HG_3 gnd
+Erwinia-NL178:	galF galE manC manB wzm wzt ubiG wejI gmd rmd wejJ wejK gnd
+Erwinia-NL179:	galF gne rmlB rmlD rmlA rmlC wzx wbuG wzy wbsI wclX weiC wcmT gnd
+Erwinia-NL180:	galF galE wzm wzt kp14H gif wbrV rfaG HG gnd
+Erwinia-NL181:	galF galE wzm wzt kp14H gif wbrV rfaG gnd
+Erwinia-NL182:	galF galE wffW wffX wffY wffZ wzx wzy wfgA fnlA fnlB fnlC wbuB wbuC gnd
+Erwinia-NL183:	galF galE manC manB wzm wzt wejH wcuE rmd wcpG gmd wejJ wejK gnd
+Erwinia-NL184:	galF galE wbhQ rmlB rmlD rmlA rmlC wzx HG wzy wbsW wbuG wbbG gnd
+Erwinia-NL185:	galF galE wbhQ rmlB rmlD rmlA rmlC wzx wbuG wzy wdaP gmd fcl gmm manC wfgS manB gnd
+Erwinia-NL186:	galF galE wbhQ rmlB rmlD rmlA rmlC wzx wfgH wzy wbsW wbuG wbbG wekS gnd
+Erwinia-NL187:	galF galE wbhQ rmlB rmlD rmlA rmlC wegG wegH wzx wzy wegI wegJ wegK wegL manC manB gnd
+Erwinia-NL188:	galF gne manC manB wzm wzt HG_1 HG_2 wfcC gmd rmd wejJ wejK gnd
+Erwinia-NL189:	galF galE manC manB wzm wzt HG wejI wejJ wejK gnd
+Erwinia-NL190:	galF gne rmlB rmlA wzx vioA vioB wffW wbqE wzy wclN wffX wbwC gnd
+Erwinia-NL191:	galF gne rmlB rmlD rmlA per wzx HG rmlC wzy wekA wfeH wbgS gnd
+Erwinia-NL192:	galF galE wbhQ wzx wzy HG wfgA fnlA fnlB fnlC wbuB wbuC gnd
+Erwinia-NL193:	galF galE wzm wzt kp14H gif wckG rfaG HG gnd
+Erwinia-NL194:	galF galE rmlB rmlD rmlA wbhP wbhQ wbhS rmlC qdtA HG_1 wbsI wbuL wbtC wzx wcsH HG_2 wbsY gnd
+Erwinia-NL195:	galF galE wbhQ gne wzx rmlB rmlA fdtA qdtC fdtB wbsE wzy HG glf wfbU gnd
+Erwinia-NL196:	galF galE rmlB rmlA fcf1 wzm wzt kp14H gif wbrV rfaG HG gnd
+Erwinia-NL197:	galF galE wbhQ wffW wffX wffY wffZ wzx wzy wfgA wbuB fnlA fnlB fnlC wbuC gnd
+Erwinia-NL198:	galF galE rmlA rmlB rmlC rmlD wzm wzt ubiG wekN wfaF gnd
+Erwinia-NL199:	galF galE wbhQ rmlB rmlD rmlA rmlC wzx wbuG wzy wdaP gmd fcl gmm manC wfgS manB HG gnd
+Erwinia-NL200:	galF galE HG_1 rmlB rmlD rmlA rmlC wekN HG_2 wzm wzt gnd
+Escherichia-NL201:	galF HG rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF wclR gnd ugd wzzB
+Escherichia-NL202:	galF HG rmlB rmlD rmlA rmlC wcqJ wekH wzy gnaA wbqB wcnX wzx wfaE gnd ugd
+Escherichia-NL203:	galF wzi wza wzb wzc wcaJ wcaA HG wcqC wzy wcuT wzx gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL204:	galF wdbM wdbN wdbO wzy wdbP wzx mdoB gnd ugd
+Escherichia-NL205:	galF HG rmlB rmlC tll weiT wzx wbhU wzy weiU rmlA gnd ugd
+Escherichia-NL206:	galF wclE wzy wclF wclG gnd wzx wclD ugd
+Escherichia-NL207:	galF HG rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF wclR gnd
+Escherichia-NL208:	galF cpsACP wzb wzc kp5A wzx kp5C kp5D kp5E kp5F kp5G kp5H wcaJ gnd manC manB ugd
+Escherichia-NL209:	galF HG rmlB rmlD rmlA rmlC wegG wegH wzx wzy wegI wegJ wegK wegL manC manB gnd ugd
+Escherichia-NL210:	galF HG rmlB rmlA qdtA qdtC wbtC wzx wzy wbuM wbuN wbuO wdaK gnd ugd
+Escherichia-NL211:	galF rmlB rmlD rmlA rmlC wzx wfgI wbsY wzy yfdG arnC HG_1 HG_2 gnd ugd
+Escherichia-NL212:	galF HG rmlB rmlD rmlA fdtA fdtC fdtB wzx wekP rmlC wzy wekQ wekR yhhI wekS gnd ugd
+Escherichia-NL213:	galF HG_1 rmlB rmlD rmlA rmlC wzx HG_2 HG_3 wekA HG_4 wbbG HG_5 HG_6 wfdV gnd ugd
+Escherichia-NL214:	galF rmlB rmlA wbsA wbsB wbsC wbsD wzx wbsE wbsF wbsG wzy gnd ugd
+Escherichia-NL215:	galF HG rmlB rmlD rmlA rmlC wzx wzy wfbY wfbZ gnd ugd
+Escherichia-NL216:	galF HG rmlB rmlD rmlA rmlC wcqJ wdaC wzy gnaA wbqB wcnX wzx wfaE gnd ugd
+Escherichia-NL217:	galF HG rmlB rmlD rmlA rmlC vioA vioB wzx wfaS wbnE wzy wfcC wekZ manC manB gnd ugd
+Escherichia-NL218:	galF rmlB rmlD rmlA rmlC wzx wekA wekB wzy wfaD weiM wcnZ gnd ugd
+Escherichia-NL219:	galF rmlB rmlA wbtA wbtB wbtC wzx wbtD wbtE wzy wbtF wbtG galE gnd ugd
+Escherichia-NL220:	galF wfdR wzx wfeA wzy kpb7 wffJ gnd ugd
+Escherichia-NL221:	galF wzx wzy wfeA wfeB wfeC wfeD wfeE gnd ugd
+Escherichia-NL222:	galF cat weiJ rmlB rmlA rmlC tll wzx wfcB wzy wfcC wffE manC manB gnd ugd
+Escherichia-NL223:	galF wzx wclN wclO wclP wzy wclQ gnd ugd
+Escherichia-NL224:	galF kpb3 wzx wzy wejW HG wbwW gnd ugd
+Escherichia-NL225:	galF HG rmlB rmlD rmlA wzx rmlC wzy wbdY wbdZ fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia-NL226:	galF wbdN wzy wbdO wzx per wbdP gmd fcl wbdQ manC HG manB wbdR gnd ugd
+Escherichia-NL227:	galF HG rmlB rmlD rmlA rmlC wzx wekA wekB wzy weiJ wbuH fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia-NL228:	galF wzx HG_1 wbdM HG_2 wfgA fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia-NL229:	galF HG_1 HG_2 HG_3 HG_4 wzi wza wzb wzc wctG wcuP wzy wcuC wbaZ wcaJ wctH wctI wzx wcuJ gnd manC manB ugd
+Escherichia-NL230:	galF rmlB rmlD rmlA rmlC wzx wbsW wzy wbsV wbbQ wfgO gnd ugd
+Escherichia-NL231:	galF HG rmlB rmlD rmlA rmlC wzx weiN wzy wbsI wclX wcmT kp62D manC manB gnd ugd
+Escherichia-NL232:	galF rmlB rmlD rmlA rmlC wzx wbuG wzy wbuH fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia-NL233:	galF HG rmlB rmlA wzy weiM weiN weiO weiP weiQ wzx weiS rmlC tll weiT weiU gnd ugd
+Escherichia-NL234:	galF rmlB rmlD rmlA rmlC wffW wzx wffG wfgI wfgK wzy gnd ugd
+Escherichia-NL235:	galF HG_1 wzi wza wzb wzc wbaP wcaA wcuP wcuR HG_2 wzy wcqP wzx wcuN gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL236:	galF wbwH rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF galE gnd HG ugd
+Escherichia-NL237:	galF rmlB rmlD rmlA rmlC wzx wekA wbaC wzy wbaD manC manB gnd ugd
+Escherichia-NL238:	galF galE wbwH gmd fcl gmm HG yhhI wzx wbwK wzy wcsH gnd ugd
+Escherichia-NL239:	galF wzy wbgK wbgL wbsT wbsU gmd fcl manC manB wzx gnd ugd
+Escherichia-NL240:	galF HG rmlB rmlD rmlA wzx wfdA wzy wfdB wfdC wfdD wfdE rmlC glf gnd ugd
+Escherichia-NL241:	galF HG_1 rmlB rmlD rmlA rmlC wzx HG_2 wcmU HG_3 wzy wdaF gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL242:	galF HG rmlB rmlD rmlA rmlC qdtA qdtC fdtB wzx wbtE wzy wclX wclV wcmT gnd ugd
+Escherichia-NL243:	galF HG rmlB rmlD rmlA wbbD wcnX wbuN wbuO wbwV wzx capA wfdR rmlC gnd ugd
+Escherichia-NL244:	galF HG_1 rmlB rmlD rmlA rmlC per wzx HG_2 wbbQ wzy wekN wcmT vioB yhhI HG_3 wekS gnd ugd
+Escherichia-NL245:	galF rmlB rmlD rmlA rmlC wzx HG wcmU wzy wdaF gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL246:	galF gne gna wbaX wckD HG wzy wcpG wclX hepC wcaI manB gnd ugd
+Escherichia-NL247:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wbaP wcsD wzx wzy wcsE gmd wcaG gmm wcaI HG_4 gnd manC manB ugd
+Escherichia-NL248:	galF HG_1 rmlB rmlD rmlA rmlC wcqJ wekH wzy gnaA wbqB wcnX wzx wfaE gnd HG_2 HG_3 ugd
+Escherichia-NL249:	galF rmlB rmlD rmlA rmlC wzx vioA vioB wbbA wbbB wzy wbbC wbbD manC HG manB gnd ugd
+Escherichia-NL250:	galF rmlB rmlD rmlA wekD wekE wekF wekG rmlC wekH wekI manC manB wzx wekJ wzy wekK gnd HG ugd
+Escherichia-NL251:	galF HG rmlB rmlD rmlA rmlC vioA wbdR phaJ wzx wbwV wzy wbsF wbsY galE gnd ugd
+Escherichia-NL252:	galF HG wbaC wbaD manC manB wzy wzx gnd ugd
+Escherichia-NL253:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wcaA wcaJ wcpH wcpI wzy wcpJ wzx HG_4 gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL254:	galF HG rmlB rmlD rmlA rmlC wzx glf wzy wbbI wfaD weiM wcnZ gnd ugd
+Escherichia-NL255:	galF wffW wffX wffY wffZ wzx wzy wfgA fnlA fnlB fnlC wbuB wbuC gnd HG ugd
+Escherichia-NL256:	galF wfdP wfdQ wfdR wzx epsH wzy wbuU tolB wbbD gnd
+Escherichia-NL257:	galF HG rmlB rmlD rmlA rmlC wfdR wzx wcnX wzy wbsW wbuG wbbG gnd ugd
+Escherichia-NL258:	galF wfdR HG wzx wfeA wzy kpb7 wffJ gnd ugd
+Escherichia-NL259:	galF HG rmlB rmlD rmlA rmlC wffV wzx wcuO epsJ wzy gne gnd
+Escherichia-NL260:	galF rmlB rmlD rmlA rmlC wzx wbwV wcmT wzy gnd ugd
+Escherichia-NL261:	galF HG rmlB rmlD rmlA rmlC wzx wdaD wzy wekA wfeX wcqU gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL262:	galF cat HG_1 HG_2 wcmU HG_3 gtf1 vatD gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL263:	galF HG_1 rmlB rmlD rmlA HG_2 rmlC wzx mnaA wekM wzy wekN wekO gnd ugd
+Escherichia-NL264:	galF wzx wbgP wfeF wzy wfgC wdaK gnd HG_1 HG_2 HG_3 ugd
+Escherichia-NL265:	galF cpsACP wzi wza wzb wzc wzx HG_1 weiC wzy HG_2 wclK HG_3 wcaJ gnd
+Escherichia-NL266:	galF cpsACP wzi wza wzb wzc wckV wcoX wzy wcuF wckY wzx HG_1 HG_2 wcaJ gnd
+Escherichia-NL267:	galF HG rmlB rmlD rmlA rmlC wzx mnaA wekM wbbQ wzy wekN wcmT wekS gnd ugd
+Escherichia-NL268:	galF wcnP wcnQ wcnR psb4 psb5 psb6 wzx wfdL wzy wfdM wfdN wfdO gif gnd ugd
+Escherichia-NL269:	galF rmlB rmlD rmlA gmd fcl gmm manC manB rmlC wzx HG_1 wzy wbwK wfbH wfbG galE HG_2 gnd ugd
+Escherichia-NL270:	galF HG rmlB rmlD rmlA rmlC wzx mnaA wekM wzy gnd ugd
+Escherichia-NL271:	galF HG_1 rmlB rmlD rmlA rmlC wzx wfaE wzy wffH' wffI wffJ gne gnd HG_2 ugd
+Escherichia-NL272:	galF rmlB rmlD rmlA rmlC wzx wfgI wbsY wzy yfdG arnC HG_1 HG_2 HG_3 gnd ugd
+Escherichia-NL273:	galF HG rmlB rmlD rmlA wzy wbbD wcnX wbuN wbuO wbwV wzx capA wfdR rmlC gnd ugd
+Escherichia-NL274:	galF cpsACP wzi wza wzb wzc HG wcaJ gnd
+Escherichia-NL275:	galF cpsACP wzi wza wzb wzc wzx HG_1 wbdM HG_2 wcaJ gnd
+Escherichia-NL276:	galF HG rmlB rmlD rmlA rmlC wzx wffC wctC wcuM wzy wekA gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL277:	galF HG rmlB rmlD rmlA rmlC wzx wffC wctC wfaF gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL278:	galF HG rmlB rmlD rmlA rmlC gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL279:	galF yhhI HG wbaD wbaC manC manB wzy wzx gnd ugd
+Escherichia-NL280:	galF wbdN wzy wbdO wzx per wbdP gmd fcl wbdQ manC manB yhhI wbdR gnd ugd
+Escherichia-NL281:	galF wzx HG wcmS wzy wcmU wfgR gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL282:	galF wffW wzx wffX wzy wfeF wfbU wcpG gif HG gnd
+Escherichia-NL283:	galF HG rmlB rmlD rmlA rmlC wzy kp9C wcqH wzx wcqP wbbQ wbbG gnd
+Escherichia-NL284:	galF rmlB rmlD rmlA rmlC wffB wzx wfgG wfgH wzy wbbQ wclR HG gnd ugd
+Escherichia-NL285:	galF HG rmlB rmlD rmlA rmlC wzx wzy wbuG wffW wbrX wffX wbbD gnd ugd
+Escherichia-NL286:	galF gne gna wbaX wckD HG_1 wzy wcpG orf9 HG_2 hepC wcaI manB gnd ugd
+Escherichia-NL287:	galF HG rmlB rmlD rmlA rmlC wzx mnaA wekM wzy wekN wdaW gnd ugd
+Escherichia-NL288:	galF gne gna wbaX wckD HG wzy ugd
+Escherichia-NL289:	galF tuaG wzy pglH weiG weiL wzx gnd ugd
+Escherichia-NL290:	galF HG rmlB rmlD rmlA rmlC wzy kp9C wcqH wzx wcuT wbbQ wfgO gnd ugd
+Escherichia-NL291:	galF HG rmlB rmlD rmlA rmlC wzx wfgH wzy wbsW wbuG wbbG wekS gnd ugd
+Escherichia-NL292:	galF HG rmlB rmlD rmlA rmlC wzy kp9C wcqH wzx wcqP wbbQ wbbG gnd ugd
+Escherichia-NL293:	galF wzx wffQ wfeG wzy wcmT galE gnd
+Escherichia-NL294:	galF HG_1 rmlB rmlD rmlA rmlC wcmZ wzx yhhI wffC wzy wffD wegL manC manB HG_2 gnd ugd
+Escherichia-NL295:	galF HG_1 rmlB rmlD rmlA rmlC wzx HG_2 wekA wbbG HG_3 wfdV gnd ugd
+Escherichia-NL296:	galF wzx wfaS wfaQ wzy wcmU HG gmd fcl gmm manC wdaG manB gnd ugd
+Escherichia-NL297:	galF wckD nnaB nnaC nnaA yhhI wzx lst wzy wcnW wejW wbwC gnd ugd
+Escherichia-NL298:	galF rmlB rmlD rmlA wbgQ wzy wbgR wzx rmlC wbgS gnd ugd
+Escherichia-NL299:	galF rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF wclR gnd
+Escherichia-NL300:	galF rmlB rmlD rmlA rmlC wzx wzy wbbR wbbQ wbbG gnd ugd
+Escherichia-NL301:	galF gtf1 vatD wcoS fnlA fnlB fnlC wbuB wbuC wzx HG pglJ gnd ugd
+Escherichia-NL302:	galF rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF wclR gnd ugd wzzB
+Escherichia-NL303:	galF HG_1 cpsACP wzi wza wzb wzc wcaJ wcpB wzy wcuF wcpA wzx HG_2 HG_3 wcoZ gnd ugd
+Escherichia-NL304:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wcaA wcoY HG_2 wcaN wzy wcpL wcuT wzx gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL305:	galF HG rmlB rmlD rmlA rmlC wzx vioA vioB wbbA wbbB wzy wbbC wbbD manC manB gnd ugd
+Escherichia-NL306:	galF HG rmlB rmlD rmlA rmlC wzxC wzy wclS wbaX kp62G wekH manC manB gnd ugd
+Escherichia-NL307:	galF HG rmlB rmlA fdtA fdtC fdtB wzx wdcI wdcJ wzy wdaT manC manB gnd ugd
+Escherichia-NL308:	galF wffW wffX wffY wffZ wzx wzy wfgA fnlA fnlB fnlC wbuB wbuC gnd HG
+Escherichia-NL309:	galF HG_1 rmlB rmlD rmlA rmlC wbuT wzx wfgH wzy wbsW wbsX wbsY gnd HG_2 ugd
+Escherichia-NL310:	galF wffW yhhI wffG wfgD HG amj wfaY gnd ugd
+Escherichia-NL311:	galF wzx wbgP wfeF wzy wfgC wdaK gnd ugd
+Escherichia-NL312:	galF HG rmlB rmlA wzx vioA wbqE wzy wclQ wejW glf wfdK gnd
+Escherichia-NL313:	galF cpsACP HG_1 wzi wza wzb wzc wbaP wctK wzy HG_2 HG_3 wcpJ HG_4 HG_5 HG_6 gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL314:	galF rmlB rmlD rmlA rmlC wzx HG_1 wekA wbbG HG_2 wfdV gnd ugd
+Escherichia-NL315:	galF HG rmlB rmlD rmlA rmlC wzx wfaE wzy wffH' wffI wffJ gne gnd
+Escherichia-NL316:	galF wfdP wfdQ wfdR wzx epsH wzy wbuU tolB wbbD gnd ugd
+Escherichia-NL317:	galF wzx HG_1 wcmS wzy wcmU wfgR gmd fcl gmm manC wfgS manB gnd HG_2 ugd
+Escherichia-NL318:	galF HG_1 rmlB rmlD rmlA rmlC wzx glf HG_2 yhhI wbwV wzy wdcQ wfbU gnd ugd
+Escherichia-NL319:	galF galE wbwH gmd fcl gmm ltrA HG yhhI wzx wbwK wzy wcsH gnd ugd
+Escherichia-NL320:	galF rmlB rmlD rmlA fdtA fdtC fdtB wzx wekP rmlC wbbQ wzy wbuG wbaY manC manB gnd ugd
+Escherichia-NL321:	galF wbgM gmd gmm manC manB wbgN wzy wzx wbgO wbgP gnd wbdJ wbdK yhhI ugd
+Escherichia-NL322:	galF rmlB rmlA fdtA fdtC fdtB wzx wdcI wdcJ wzy wdaT manC manB gnd ugd
+Escherichia-NL323:	galF wfgR gmd fcl gmm manC wfgS manB wzy wzx capA HG gtf1 gnd ugd
+Escherichia-NL324:	galF wfdQ wbuO HG wzx weiB wbwC gnd
+Escherichia-NL325:	galF wzx wffQ wfeG HG wzy wcmT galE gnd
+Escherichia-NL326:	galF mnaA HG_1 HG_2 wzx wekM wbbG wcuD wcnW manC manB gnd
+Escherichia-NL327:	galF wzx gne weiD wcuM HG wffO gnd ugd
+Escherichia-NL328:	galF rmlB rmlA qdtA qdtC fdtB wzx wbqE wbqG wejX wzy wekY amsE gne gnd ugd
+Escherichia-NL329:	galF wzx yhhI albA wcmS HG_1 wcmU HG_2 gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL330:	galF rmlB rmlD rmlA rmlC wzx wfeZ wffA wffB wffC wzy wffD wffE manC manB gnd ugd
+Escherichia-NL331:	galF elg6 wzx wffG wzy wcqV aceC wbaD HG_1 yhhI HG_2 HG_3 gnd ugd
+Escherichia-NL332:	galF rmlB rmlD rmlA rmlC wegG wegH wzx wzy wegI wegJ wegK wegL manC manB gnd ugd
+Escherichia-NL333:	galF rmlB rmlD rmlA rmlC wzx wzy wbuG wffW wbrX wffX wbbD gnd ugd
+Escherichia-NL334:	galF rmlB rmlD rmlA rmlC wcqJ wekH wzy gnaA wbqB wcnX wzx wfaE gnd HG_1 HG_2 ugd
+Escherichia-NL335:	galF wzx wfaS wfaQ wzy wdaD wdaF gmd fcl gmm manC wdaG manB gnd ugd
+Escherichia-NL336:	galF elg1 elg2 elg3 elg4 elg5 elg6 weiH elg7 weiI HG wdcM wzx fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia-NL337:	galF HG rmlB rmlD rmlA rmlC wcqJ wfaL wcuM wzy wbqE wcqM wzx gnd
+Escherichia-NL338:	galF wejU wzy wejV wejW wzx wejX wejY gnd kpb7 ugd
+Escherichia-NL339:	galF HG rmlB rmlD rmlA wdaK rmlC qdtA fdtB wzx wbtE wzy wdaM wbtB gnd ugd
+Escherichia-NL340:	galF HG_1 rmlB rmlD rmlA rmlC HG_2 HG_3 wbuA HG_4 wfdV gnd
+Escherichia-NL341:	galF wzx wdaX wzy wdaY wclV wcmT gnd
+Escherichia-NL342:	galF HG_1 HG_2 HG_3 HG_4 wzi wza wzb wzc wcuL wzx wcuD wzy wckP wckO wckN HG_5 wcuG HG_6 wcaJ gnd manC manB ugd
+Escherichia-NL343:	galF HG rmlB rmlD rmlA rmlC wffV wzx wcuO epsJ wzy gne gnd ugd
+Escherichia-NL344:	galF HG_1 rmlB rmlD rmlA qdtA HG_2 gph rmlC wbtC wzx wclW wzy wfbY wfbZ gnd ugd
+Escherichia-NL345:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wcaA rmlB rmlA rmlC rmlD wcpI wzx wckG wcnX wzy wclI HG_2 gnd
+Escherichia-NL346:	galF HG rmlB rmlD rmlA rmlC wzxC wzy wclS wbaX kp62G wekH manC manB gnd
+Escherichia-NL347:	galF HG rmlB rmlD rmlA rmlC wbbQ wzy wbuG wffE manC manB wcnX gnd
+Escherichia-NL348:	galF rmlB rmlD rmlA rmlC wzx wfgI wbsY wzy yfdG arnC HG gnd ugd
+Escherichia-NL349:	galF HG_1 rmlB rmlD rmlA rmlC wzx HG_2 wcmU wzy wdaF gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL350:	galF rmlB rmlD rmlA rmlC wzx wzy wclW wclX wclY wclZ gne gnd ugd
+Escherichia-NL351:	galF wfaD weiJ rmlB rmlA rmlC tll wzx wfcB wzy wfcC wffE manC manB gnd ugd
+Escherichia-NL352:	galF wffZ wzy wzx gtf1 wbsA gnd HG_1 yhhI HG_2 HG_3 ugd
+Escherichia-NL353:	galF HG_1 cpsACP HG_2 wzi wza wzb wzc wbaP wcuF wcmY wzy wcqJ wctX wcuC wzx gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL354:	galF wzx wfeU rmlB wbdP wzy HG wffX wcmS gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL355:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wcaN wzy wcoY kpb4 wcaG wcuH wzx HG_2 HG_3 gnd ugd
+Escherichia-NL356:	galF HG rmlB rmlD rmlA rmlC wzx wffC wctC wcuM wzy wfaF gmd fcl gmm manC wfgS manB gnd
+Escherichia-NL357:	galF HG_1 rmlB rmlD rmlA rmlC qdtA qdtC fdtB wzx wbuM HG_2 wcqJ wbuA wbgS gnd ugd
+Escherichia-NL358:	galF HG rmlB rmlD rmlA fdtA fdtC fdtB wzx wekP rmlC wfdB wfdC wfdD wzy wbwZ gnd ugd
+Escherichia-NL359:	galF HG_1 rmlB rmlD rmlA rmlC wffH' wclY wekH wzx HG_2 wfgO wzy gne gnd ugd
+Escherichia-NL360:	galF HG_1 rmlB rmlD rmlA rmlC wzx vioA vioB HG_2 wzy wekA wfeH wbgS gnd ugd
+Escherichia-NL361:	galF yhhI wclR wzx wclS wzy fnlA qnlA wclT wclU wclV gnd ugd
+Escherichia-NL362:	galF HG_1 rmlB rmlD rmlA HG_2 wekN wekO gnd ugd
+Escherichia-NL363:	galF wzx glf wbsA wzy wbbI wffQ yhhI gnd ugd
+Escherichia-NL364:	galF mnaA rmlB rmlD rmlA rmlC HG_1 wffA wffB wcnZ HG_2 HG_3 wffU wffV gnd ugd
+Escherichia-NL365:	galF cpsACP wzi wza wzb wzc wclQ wcuQ wzy wclP wzx wcqZ wcuK wbaZ wcaJ gnd ugd
+Escherichia-NL366:	galF HG rmlB rmlA wbsA wbsB wbsC wbsD wbsG wzy gnd ugd
+Escherichia-NL367:	galF wzx wfeF wfeG gae wfeH wfeI gne gnd ugd
+Escherichia-NL368:	galF HG rmlB rmlD rmlA rmlC gna gfo fdtC wbsD wzx wzy qnjB wcuM wekN wekO gnd ugd
+Escherichia-NL369:	galF elg1 elg2 elg3 elg4 elg5 elg6 weiH elg7 weiI HG_1 HG_2 HG_3 glf wbdW manC manB wfbU gnd ugd
+Escherichia-NL370:	galF rmlB rmlD rmlA rmlC wbsV wzy wbsW wbsX wbsY wbsZ wzx gnd ugd
+Escherichia-NL371:	galF HG rmlB rmlD rmlA rmlC wzx wbuT wzy wbuU wbuV gnd
+Escherichia-NL372:	galF wcnP wcnQ wcnR wcnS wcnT wzx HG wzy wfeD gnd
+Escherichia-NL373:	galF wfaS wfaT wzx wzy wfaU wfaV manC manB gnd ugd
+Escherichia-NL374:	galF kpb3 wzx wzy wejW HG wbwW gnd kpb7 ugd
+Escherichia-NL375:	galF HG rmlB rmlD rmlA rmlC wbsW wcuO wzx cotSA wzy wekO gnd
+Escherichia-NL376:	galF manC manB wzm wzt wejH wejI gmd rmd wejJ wejK mdoB galE arnF HG gnd ugd
+Escherichia-NL377:	galF cat HG_1 HG_2 wcmU HG_3 gtf1 vatD gmd fcl gmm manC wfgS manB gnd
+Escherichia-NL378:	galF cpsACP HG_1 HG_2 HG_3 wzi wza wzb wzc kp5A wzx kp5C kp5D kp5E kp5F kp5G kp5H wcaJ gnd manC manB ugd
+Escherichia-NL379:	galF HG rmlB rmlD rmlA rmlC wzx wbsW wzy wfdV wfdG wcmT gnd
+Escherichia-NL380:	galF rmlB rmlD rmlA rmlC qdtA qdtC qdtB wzx wdaN wzy wekA wfeH wbgS gnd ugd
+Escherichia-NL381:	galF HG_1 rmlB rmlD rmlA rmlC wbsW HG_2 wcuO wzx cotSA wzy wekO gnd ugd
+Escherichia-NL382:	galF HG_1 cpsACP wzi wza wzb wzc wzy wcqW wcaO wbaZ wcaJ wcqX wcqY wcuH wzx HG_2 gnd HG_3 manC manB ugd
+Escherichia-NL383:	galF rmlB rmlD wzx rmlC wzy wbdY wbdZ fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia-NL384:	galF HG cpsACP wzi wza wzb wzc wbaP wcuF wcmY wzy wcqJ wctX wcuC wzx gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL385:	galF HG cpsACP wzi wza wzb wzc wbaP wcuD wcuE wbaZ wcuS wzx wcqH wclK wzy wcuC gnd manC manB rmlB rmlA rmlD rmlC ugd
+Escherichia-NL386:	galF wckD nanB nnaC nnaA wzy wzx HG fnlA fnlB fnlC wbuB wbuC gnd ugd
+Escherichia-NL387:	galF HG_1 rmlB rmlD rmlA rmlC HG_2 HG_3 wbuA HG_4 wfdV gnd ugd
+Escherichia-NL388:	galF wzx HG_1 wfaS HG_2 wdaF gmd fcl gmm manC wfgS manB gnd
+Escherichia-NL389:	galF HG rmlB rmlD rmlA rmlC wzx wekA wekB wzy wfaD weiM wcnZ gnd ugd
+Escherichia-NL390:	galF HG cpsACP wzi wza wzb wzc wzy wcuC wckM wckL wcuQ wzx wckK wbaZ wcaJ wclK gnd manC manB ugd
+Escherichia-NL391:	galF HG rmlB rmlD rmlA rmlC wfcA wzxC wzy wbbB wbbC wbbD manC manB gnd ugd
+Escherichia-NL392:	galF wzi wza wzb wzc wbaP wzy orfY wcaN wcaO wcuK wbaZ wzx gnd
+Escherichia-NL393:	galF HG_1 rmlB rmlD rmlA rmlC wcnX wzy wbsW HG_2 wdaC gnd wzx wclD ugd
+Escherichia-NL394:	galF HG rmlB rmlD rmlA rmlC wzx wdaD wzy wekA wfeX wcqU gmd fcl gmm manC wfgS manB gnd
+Escherichia-NL395:	galF HG rmlB rmlD rmlA rmlC wzx wbsW wzy wfdV wfdG wcmT gnd ugd
+Escherichia-NL396:	galF HG rmlB rmlD rmlA rmlC wcqJ wfaL wcuM wzy wbqE wcqM wzx gnd ugd
+Escherichia-NL397:	galF rmlB rmlD rmlA rmlC wzx wzy wclX wclU wbtF wclR gnd ugd wzzB HG
+Escherichia-NL398:	galF rmlB rmlD rmlA rmlC wzx wfgI wbsY wzy yfdG HG gnd ugd
+Escherichia-NL399:	galF rmlB rmlD rmlA rmlC yhhI wzx wbwX wzy wbwY wbwZ gnd ugd
+Escherichia-NL400:	galF rmlB rmlA wbsA wbsB wbsC fdtB wzx wbtE HG wfeH gnd ugd
+Escherichia-NL401:	galF HG rmlB rmlD rmlA rmlC wbuB wbuC gnd ugd
+Escherichia-NL402:	galF rmlB rmlD rmlA rmlC wfgB wzx wfgC wzy wfgD wfgE gnd ugd
+Escherichia-NL403:	galF wbgM gmd wbdI manC manB wbdJ wbdK wzx wzy wbdL wbdM gnd ugd
+Escherichia-NL404:	galF HG_1 wzi wza wzb wzc wzx wclT wzy wctC wcqS wcqT wcqU gmd wcaG wcaH wcaI wcaJ HG_2 wcsO gnd manC manB ugd
+Escherichia-NL405:	galF rmlB rmlD rmlA rmlC gna gfo fdtC wbsD wzx wzy qnjB wcuM wekN wekO gnd ugd
+Escherichia-NL406:	galF wzx wclN wclO wclP wzy wclQ gnd HG ugd
+Escherichia-NL407:	galF wzx HG wfaS wfaQ wzy wcmU wdaF gmd fcl gmm manC wfgS manB gnd
+Escherichia-NL408:	galF rmlB rmlD rmlA rmlC wzx wfgI wbsY wzy arnC HG_1 HG_2 gnd ugd
+Escherichia-NL409:	galF HG cpsACP wzi wza wzb wzc wbaP wclQ wclP wzx wcuQ wcaN wcuK wzy wcsO wbaZ gnd manC manB ugd
+Escherichia-NL410:	galF HG rmlB rmlA fdtA wbtB fdtB wzx wdaO wzy wdaF gmd fcl gmm manC wdaG manB gnd ugd
+Escherichia-NL411:	galF wzx wcsH HG_1 wzy wfgC HG_2 wclK fnlA qnlA qnlB wbuB wbuC gnd ugd
+Escherichia-NL412:	galF HG cpsACP wzi wza wzb wzc wcaJ wcuE wcuK wzy wbaZ wclH wckZ wcuT wzx gnd manC manB rmlB rmlA rmlD rmlC ugd
+Escherichia-NL413:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wzy wciP wzx wcqZ wcuQ HG_2 wbaZ HG_3 gnd manC manB ugd
+Escherichia-NL414:	galF wejN wejO manC manB wejQ wzy wejR wejS wejT wzx gnd ugd
+Escherichia-NL415:	galF HG cpsACP wzi wza wzb wzc wclU wzx wzy wckB wcoS gmd wcaG gmm wcaI wcaJ gnd manC manB ugd
+Escherichia-NL416:	galF HG_1 cpsACP wzi wza wzb wzc wcaA wcaJ wcnX wzy wekH gtf1 HG_2 wzx wclD gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL417:	galF HG_1 wzi wza wzb wzc wbaP wctK wzy HG_2 HG_3 wcpJ HG_4 HG_5 HG_6 gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL418:	galF mnaA HG_1 HG_2 wzx wekM wbbG HG_3 wcuD wcnW manC manB gnd
+Escherichia-NL419:	galF HG rmlB rmlD rmlA rmlC wzx wffC wctC wcuM wzy wfaF gmd fcl gmm manC wfgS manB gnd ugd
+Escherichia-NL420:	galF kpb3 wzx wzy wejW wbwW gnd kpb7 ugd
+Escherichia-NL421:	galF rmlB rmlA wzx vioA vioB wffW wbqE wzy wbnA wffX wbbD gnd
+Escherichia-NL422:	galF cpsACP HG_1 wzi wza wzb wzc wcaA wcaJ wcaG pglI wzy wcpJ wfgD wzx HG_2 HG_3 gnd rmlB rmlA rmlD rmlC ugd
+Escherichia-NL423:	galF HG rmlB rmlD rmlA rmlC qdtA fdtC wbtC wzx wclW wzy wcuR wbuA weiG gnd
+Escherichia-NL424:	galF rmlB rmlD rmlA rmlC wzxC wzy wclS wbaX kp62G wekH manC manB gnd ugd
+Escherichia-NL425:	galF rmlB rmlA fdtA wbtB wbtC wzx wbtD wbtE wzy wbtF wbtG galE gnd HG_1 HG_2 ugd
+Escherichia-NL426:	galF HG_1 rmlB rmlD rmlA rmlC per wzx HG_2 wbbQ wzy wekN wcmT vioB yhhI wekS gnd ugd
+Escherichia-NL427:	galF HG rmlB rmlD rmlA rmlC wzx wegG wzy wfaQ wbgP wbsY gnd ugd
+Escherichia-NL428:	galF HG rmlB rmlD rmlA rmlC wbuT wzx wfgH wzy wbsW wbsX wbsY gnd ugd
+Escherichia-NL429:	galF HG_1 cpsACP wzi wza wzb wzc wzx wclY wzy wcqS wcqT HG_2 wcqU gmd wcaG gmm wcaI wcaJ gnd manC manB ugd
+Escherichia-NL430:	galF rmlB rmlD rmlA rmlC wbdT wzy wbdU wzx wbdV wbdW wbdX manC manB gnd ugd
+Escherichia-NL431:	galF HG rmlB rmlA rmlC tll wzx wfaA wzy wfaB wfaC wfaD wfaE manC manB gnd ugd
+Escherichia-NL432:	galF HG rmlB rmlD rmlA rmlC wzx mnaA wekM wzy wekN wdaW gnd
+Escherichia-NL433:	galF HG_1 cpsACP HG_2 wzi wza wzb wzc wbaP wclQ wclP wzx wcuQ wcaN wcuK wzy wcsO wbaZ gnd manC manB ugd
+Escherichia-NL434:	galF HG_1 rmlB rmlD rmlA rmlC wzx HG_2 wckZ wbbG HG_3 wfdV gnd
+Klebsiella-NL435:	galF HG_1 HG_2 wzi wza wzb wzc wbaP rfbN wcoY wcoX wcuS wcaN wzy HG_3 wcpG wzx gnd rmlB HG_4 rmlD rmlC ugd
+Klebsiella-NL436:	galF HG_1 cpsACP wzi wza wzb wzc wcuL wzx wcuD wzy wckP wckO wckN HG_2 wcuG wcaJ gnd HG_3 HG_4 ugd
+Klebsiella-NL437:	galF HG_1 cpsACP wzi wza wzb wzc wzx HG_2 weiC wzy HG_3 wclK HG_4 wcaJ gnd ugd
+Klebsiella-NL438:	galF HG_1 HG_2 wzi wza wzb wzc orf7 orf8 orf9 orf10 wzx orf12 orf13 wcaJ HG_3 gnd HG_4 HG_5 ugd
+Klebsiella-NL439:	galF HG_1 HG_2 HG_3 HG_4 wzi wza wzb wzc wbaP wcaA wcoY HG_5 wcaN wzy wcpL wcuT wzx gnd HG_6 HG_7 HG_8 rmlD rmlC ugd
+Klebsiella-NL440:	galF HG_1 cpsACP wzi wza wzb wzc wzy wcuO manC manB wbaZ wcaJ wcuC epsJ wzx wcuI wcoX gnd HG_2
+Klebsiella-NL441:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaA kp9E wclL HG_3 gnd HG_4 HG_5 rmlD rmlC ugd
+Klebsiella-NL442:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaA kp9E wclL gnd HG_3 HG_4 rmlD rmlC ugd
+Klebsiella-NL443:	galF HG_1 HG_2 wzi wza wzb wzc orf7 orf8 orf9 orf10 wzx orf12 orf13 wcaJ gnd HG_3 HG_4 ugd
+Klebsiella-NL444:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcuK wzy wcaO wcaN wbaZ wcuV wzx gnd HG_3 HG_4 ugd
+Klebsiella-NL445:	galF HG_1 HG_2 wzi wza wzb wzc HG_3 wbaP wcaA kp9E wclL HG_4 gnd HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL446:	galF cpsACP wzi wza wzb wzc wbaP wcaA rmlB rmlA rmlC rmlD wcuP wclI wcuA wbaZ wzx gnd HG
+Klebsiella-NL447:	galF HG_1 cpsACP wzi wza wzb wzc wclU wzx wzy wckB wcoS gmd wcaG gmm wcaI wcaJ gnd HG_2 HG_3 ugd
+Klebsiella-NL448:	galF HG_1 HG_2 wzi wza wzb wzc wzy wcuC wckM wcuQ wcuD epsH wzx wbaZ wcaJ gnd manC manB ugd
+Klebsiella-NL449:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcsD wzx wzy wcsE gmd wcaG gmm wcaI HG_3 gnd HG_4 HG_5 ugd
+Klebsiella-NL450:	galF HG_1 HG_2 wzi wza wzb wzc wcaA wcaJ wcuP wclI wzy wcqB wzx gnd rmlB HG_3 rmlD rmlC ugd
+Klebsiella-NL451:	galF HG_1 HG_2 wzi wza wzb wzc wzx wzy gtf1 vatD lacA sunS gmd wcaG gmm wcaI wcaJ gnd HG_3 HG_4 HG_5 HG_6 ugd
+Klebsiella-NL452:	galF HG_1 HG_2 cpsACP wzi wza wzb wzc wcuD wzy wcuE wcuC wbaZ wbaP wcuA wcaL wzx gnd HG_3 HG_4 ugd
+Klebsiella-NL453:	galF cpsACP HG_1 wzi wza wzb wzc wbaP wcuD wcuE wbaZ wzy HG_2 wzx wcuL wcoW gnd manC manB ugd
+Klebsiella-NL454:	galF HG_1 cpsACP wzi wza wzb wzc wcaJ wzx wckX wckW wzy HG_2 vanT wbaZ gnd HG_3 HG_4 HG_5
+Klebsiella-NL455:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wceN wceM wcsR wcaN wzy HG_3 wckI wzx gnd ugd
+Klebsiella-NL456:	galF HG_1 cpsACP wzi wza wzb wzc wctG wcuP wzy wcuC wbaZ wcaJ wctH wctI wzx wcuJ gnd HG_2 HG_3 ugd
+Klebsiella-NL457:	galF HG_1 HG_2 wzi wza wzb wzc wzy wcuD wcuC wcuI manC manB wbaZ wcaJ wcuA wcaL wzx gnd ugd
+Klebsiella-NL458:	galF cpsACP HG wzi wza wzb wzc wcaJ wckI wckS wckR wzy wzx wckQ wcuJ wctE wctF gnd
+Klebsiella-NL459:	galF cpsACP HG wzi wza wzb wzc wbap wzx wclV wckX wckW wzy manC manB wbaZ wcuC gnd ugd
+Klebsiella-NL460:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wclQ wclP wzx wcuQ wcaN wcuK wzy wcsO wbaZ gnd HG_3 HG_4 ugd
+Klebsiella-NL461:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wzy wctM wcaN wzx wckS wckR HG_3 HG_4 gnd ugd
+Klebsiella-NL462:	galF HG_1 cpsACP wzi wza wzb wzc wzy wcqW wcaO wbaZ wcaJ wcqX wcqY wcuH wzx HG_2 gnd HG_3 HG_4 ugd
+Klebsiella-NL463:	galF HG_1 HG_2 wzi wza wzb wzc wbaP HG_3 wcaA kp9E wclL HG_4 gnd HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL464:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wzy wciP wzx wcqZ wcuQ HG_3 wbaZ HG_4 gnd HG_5 HG_6 ugd
+Klebsiella-NL465:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wzy kpb3 kpb4 kpb5 kpb6 kpb7 kpb8 wzx gnd ugd
+Klebsiella-NL466:	galF HG_1 HG_2 HG_3 bla wzi wza wzb wzc wcaJ wckI wckS wckR wzy wzx wckQ wcuJ wctE wctF gnd ugd
+Klebsiella-NL467:	galF cpsACP wzi wza wzb wzc wbap wzx wclV wckX wckW wzy manC manB wbaZ wcuC gnd ugd
+Klebsiella-NL468:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wzx wckX wckW wzy HG_3 vanT wbaZ gnd HG_4 HG_5 HG_6
+Klebsiella-NL469:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaA kp9E wclL HG_3 gnd HG_4 HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL470:	galF HG cpsACP wzi wza wzb wzc wzy wcuD wcuC wcuI manC manB wbaZ wcaJ wcuA wcaL wzx gnd ugd
+Klebsiella-NL471:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wcaA wcaJ wclJ wcuM wzy wcuH wzx HG_4 gnd wcqA HG_5 rmlA rmlD rmlC ugd
+Klebsiella-NL472:	galF HG_1 cpsACP wzi wza wzb wzc wcaJ wcuF wcmY wzx wctW wctX wzy HG_2 gnd HG_3 rmlA rmlD rmlC ugd
+Klebsiella-NL473:	galF HG_1 HG_2 wzi wza wzb wzc wzxC wcuF HG_3 HG_4 HG_5 wcmU wcqU gmd wcaG gmm wcaI rfbp wcaM gnd HG_6 HG_7 manB ugd
+Klebsiella-NL474:	galF cpsACP wzi wza wzb wzc pglJ tuaH wcuF wzx HG_1 aceC wcuC manC manB wcaJ gnd ugd wcpG HG_2
+Klebsiella-NL475:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wckI wckS wckR wzy wzx wckQ wcuJ wctE wctF gnd ugd
+Klebsiella-NL476:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wfdA kp14J wzx wcpS wcqP glf gnd HG_2 rmlA rmlD rmlC ugd
+Klebsiella-NL477:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wcaA wcoY HG_2 wcaN wzy wcpL wcuT wzx gnd HG_3 HG_4 rmlA rmlD rmlC ugd
+Klebsiella-NL478:	galF HG wzi wza wzb wzc wbaP wzy kpb3 kpb4 kpb5 kpb6 kpb7 kpb8 wzx gnd ugd
+Klebsiella-NL479:	galF HG_1 HG_2 wzi wza wzb wzc wcaA wcaJ wcaG pglI wzy wcpJ wfgD wzx HG_3 gnd HG_4 rmlA rmlD rmlC ugd
+Klebsiella-NL480:	galF HG_1 HG_2 wzi wza wzb wzc wzx wzy gtf1 vatD lacA sunS gmd wcaG gmm wcaI wcaJ gnd HG_3 HG_4 HG_5 ugd
+Klebsiella-NL481:	galF cpsACP wzi wza wzb wzc wbaP HG_1 wcuD wcuC wcuI manC manB wbaZ neuA legI wzx wcsW HG_2 gnd ugd
+Klebsiella-NL482:	galF HG_1 HG_2 wzi wza wzb wzc wzy wcsG HG_3 wcsH wcsI wcsJ wcsK wcsL wcsM wzx wcaJ gnd ugd
+Klebsiella-NL483:	galF HG_1 HG_2 wzi wza wzb wzc wzx gtf1 vatD lacA wcoS gmd wcaG gmm wcaI wcaJ gnd HG_3 HG_4 ugd
+Klebsiella-NL484:	galF HG_1 HG_2 HG_3 HG_4 wzi wza wzb wzc HG_5 wbaP wcaA kp9E wclL HG_6 gnd HG_7 HG_8 rmlD rmlC ugd
+Klebsiella-NL485:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaA wclN wclM orf11 wzy wckF wckG wckH wzx glf gnd HG_3 HG_4 rmlD rmlC ugd
+Klebsiella-NL486:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wbaP wctK wzy HG_4 HG_5 wcpJ HG_6 gnd HG_7 rmlA rmlD rmlC ugd
+Klebsiella-NL487:	galF HG cpsACP wzi wza wzb wzc wzy wcqW wcaO wbaZ wcaJ wcqX wcqY wcuH wzx ugd
+Klebsiella-NL488:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaN wzy wcoY kpb4 wcaG wcuH wzx HG_3 HG_4 gnd ugd
+Klebsiella-NL489:	galF cpsACP wzi wza wzb wzc pglJ tuaH wcuF wzx HG_1 aceC wcuC wcaJ HG_2 gnd wcpG HG_3 HG_4 ugd
+Klebsiella-NL490:	galF HG_1 HG_2 wzi wza wzb wzc wcaA wcaJ wzy wcpJ wfgD orf16 cysE HG_3 HG_4 wzx gnd HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL491:	galF cpsACP HG_1 wzi wza wzb wzc wbaP wctK rmlB rmlA rmlC rmlD wcuP wclJ wzy HG_2 wcuA wcaL wzx gnd ugd
+Klebsiella-NL492:	galF HG_1 HG_2 wzi wza wzb wzc tuaH wzy mshA epsH epsJ wzx wcuC wclK wbaZ wcaJ gnd HG_3 HG_4 ugd
+Klebsiella-NL493:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wcaA wcuM wbbL wckF wzy HG_3 wcuH wzx gnd HG_4 HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL494:	galF HG_1 HG_2 wzi wza wzb wzc wcaA wcaJ wcaG pglI wzy wcpJ wfgD wzx HG_3 gnd HG_4 HG_5 rmlA rmlD rmlC ugd
+Klebsiella-NL495:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wctK wcqM wcuM wcuR HG_2 wzy wzx gnd HG_3 HG_4 rmlA rmlD rmlC ugd
+Klebsiella-NL496:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaA wcuR wcaN HG_3 HG_4 wzy wzx wcuU wcuH gnd HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL497:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wcaA wcuR wcaN HG_2 HG_3 wzy wzx wcuU wcuH gnd HG_4 HG_5 rmlA rmlD rmlC ugd
+Klebsiella-NL498:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wcaA wcuR wcaN HG_2 HG_3 HG_4 wzy wzx wcuU wcuH gnd HG_5 HG_6 rmlA rmlD rmlC ugd
+Klebsiella-NL499:	galF HG_1 HG_2 HG_3 HG_4 wzi wza wzb wzc wbaP wcaA kp9E wclL HG_5 gnd HG_6 HG_7 rmlD rmlC ugd
+Klebsiella-NL500:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wcaA wcaJ wcpH wcpI wzy wcpJ wzx HG_4 gnd HG_5 rmlA rmlD rmlC ugd
+Klebsiella-NL501:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wzy wcuI wckZ wclH wcqG wcqH wzx wcuC wbaZ wcaJ gnd HG_4 HG_5 HG_6 HG_7 rmlD rmlC ugd
+Klebsiella-NL502:	galF cpsACP wzi wza wzb wzc wbaP wcaA HG_1 wcuM wbbL wckF wzy HG_2 wcuH wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-NL503:	galF HG_1 cpsACP wzi wza wzb wzc wcaA wcaJ wzy wcpJ wfgD orf16 cysE HG_2 HG_3 wzx gnd HG_4 rmlA rmlD rmlC ugd
+Klebsiella-NL504:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wcuE wcuK wzy wbaZ wclH wckZ wcuT wzx gnd HG_3 HG_4 HG_5 rmlA rmlD rmlC ugd
+Klebsiella-NL505:	galF HG_1 cpsACP HG_2 wzi wza wzb wzc wckV wcoX wzy wcuF wckY wzx HG_3 HG_4 wcaJ gnd ugd
+Klebsiella-NL506:	galF HG_1 HG_2 cpsACP wzi wza wzb wzc wcaJ wcuF wcmY wzx wctW wctX wzy HG_3 gnd HG_4 HG_5 HG_6 HG_7 HG_8 rmlC ugd
+Klebsiella-NL507:	galF cpsACP wzi wza wzb wzc wbaP wcaA rmlB rmlA rmlC rmlD wzy wcuM wclI HG_1 gnd HG_2 HG_3
+Klebsiella-NL508:	galF cpsACP HG_1 HG_2 wzi wza wzb wzc wbap wzx wclV wckX wckW wzy manC manB wbaZ wcuC gnd ugd
+Klebsiella-NL509:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wbaP wcuK wzy wcaO wcaN wbaZ wcuV wzx gnd HG_4 HG_5 ugd
+Klebsiella-NL510:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wceN wceM wcsR wcaN wzy HG_3 wckI wzx gnd HG_4
+Klebsiella-NL511:	galF HG_1 HG_2 cpsACP wzi wza wzb wzc wzy wcuH wctD wcuC wcuJ wcsF wzxC wbaZ wcaJ gnd HG_3 HG_4 ugd
+Klebsiella-NL512:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaA wcoY HG_3 wcaN wzy wcpL wcuT wzx gnd HG_4 HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL513:	galF HG_1 cpsACP wzi wza wzb wzc wcaJ wzy wctM wcaN wzx wckS wckR HG_2 HG_3 gnd ugd
+Klebsiella-NL514:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wcuO wzy wcpY wcuE wbaZ wcuV wzx wcpZ HG_3 gnd HG_4 HG_5 ugd
+Klebsiella-NL515:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaA wcuR wcaN HG_3 HG_4 HG_5 wzy wzx wcuU wcuH gnd HG_6 HG_7 rmlD rmlC ugd
+Klebsiella-NL516:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc tuaH wzy mshA epsH epsJ wzx wcuC wclK wbaZ wcaJ gnd HG_4 HG_5 ugd
+Klebsiella-NL517:	galF HG_1 cpsACP wzi wza wzb wzc wcaJ wcuO wzy wcpY wcuE wbaZ wcuV wzx wcpZ gnd HG_2 HG_3 ugd
+Klebsiella-NL518:	galF HG_1 HG_2 wzi wza wzb wzc wzx wcoV kp14D wzy wcoU wcoT wcsF wcuK wbaZ wcaJ gnd HG_3 HG_4 HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL519:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wcaJ wcuE wcuK wzy wbaZ wclH wckZ wcuT wzx gnd HG_4 HG_5 HG_6 rmlA rmlD rmlC ugd
+Klebsiella-NL520:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wzy wcuI wcuF wclK wclW wzx wcpF HG_2 gnd HG_3
+Klebsiella-NL521:	galF cpsACP wzi wza wzb wzc wcaJ wcaA rmlB rmlA rmlC rmlD wcuP wclJ wzy HG wcuA wcaL wzx gnd ugd
+Klebsiella-NL522:	galF HG_1 cpsACP HG_2 wzi wza wzb wzc wckV wcoX wzy wcuF wckY wzx HG_3 HG_4 HG_5 wcaJ gnd HG_6
+Klebsiella-NL523:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wclQ wclP wzx wcaN wcuK wzy wcsO wbaZ gnd manC HG_2 ugd
+Klebsiella-NL524:	galF HG_1 HG_2 wzi wza wzb wzc wbaP kp9B kp9C kp9D kp9E kp9F wzx gnd HG_3 HG_4 rmlD rmlC ugd
+Klebsiella-NL525:	galF HG_1 HG_2 wzi wza wzb wzc wcaA wcaJ wclJ wcuM wzy wcuH wzx HG_3 gnd wcqA HG_4 HG_5 rmlD rmlC ugd
+Klebsiella-NL526:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wclQ wclP wzx wcuQ wcaN wcuK wzy wcsO wbaZ gnd HG_2 HG_3 ugd
+Klebsiella-NL527:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wcpB wzy wcuF wcpA wzx HG_3 HG_4 wcoZ gnd ugd
+Klebsiella-NL528:	galF cpsACP wzi wza wzb wzc wzy wcuI manC manB wbaZ wcaJ wcqV wckV wzx wckJ gnd HG
+Klebsiella-NL529:	galF HG_1 HG_2 wzi wza wzb wzc wcaA wcaJ wcaG pglI wzy wcpJ wfgD wzx HG_3 gnd HG_4 HG_5 rmlD rmlC ugd
+Klebsiella-NL530:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wcaA wcuP wclJ wzy wcpL wcuT HG_2 wzx wfdM gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-NL531:	galF cpsACP wzi wza wzb wzc wbaP wcaA wclI wcuR wckF wzy wcuM orf11 wcuH wzx gnd rmlB rmlA rmlD rmlC ugd
+Klebsiella-NL532:	galF HG_1 cpsACP wzi wza wzb wzc wzxC wcuF HG_2 HG_3 HG_4 wcmU wcqU gmd wcaG gmm wcaI rfbp wcaM gnd HG_5 HG_6 ugd
+Klebsiella-NL533:	galF HG_1 HG_2 wzi wza wzb wzc wzy wcuH wctD wcuC wcuJ wcsF wzxC wbaZ wcaJ gnd HG_3 HG_4 ugd
+Klebsiella-NL534:	galF HG_1 HG_2 wzi wza wzb wzc wckV wcoX wzy wcuF wckY wzx HG_3 HG_4 wcaJ gnd ugd
+Klebsiella-NL535:	galF HG_1 cpsACP wzi wza wzb wzc wcuD wclX wzy wcuF wzx wcuL wcoW orf12 wcaJ gnd HG_2 HG_3 ugd
+Klebsiella-NL536:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wcuF wcmY wzx wcuK wctW wctX wzy gnd HG_3 HG_4 HG_5 rmlD rmlC ugd
+Klebsiella-NL537:	galF HG_1 cpsACP wzi wza wzb wzc wcaA wcaJ rmlB rmlA rmlC rmlD wzy wclL wckE HG_2 gnd HG_3
+Klebsiella-NL538:	galF HG_1 cpsACP wzi wza wzb wzc wcaJ wcaA wzx wctJ wzy orf12 wctL HG_2 gnd HG_3 rmlA HG_4 rmlC ugd
+Klebsiella-NL539:	galF HG_1 cpsACP wzi wza wzb wzc wbaP kp62B kp62C kp62D wzy kp62F kp62G kp62H wzx gnd HG_2 HG_3 ugd
+Klebsiella-NL540:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wcaJ wcuO wzy wcpY wcuE wbaZ wcuV wzx wcpZ gnd HG_4 HG_5 ugd
+Klebsiella-NL541:	galF HG_1 cpsACP wzi wza wzb wzc wclQ wcuQ wzy wclP wzx wcqZ wcuK wbaZ wcaJ gnd HG_2 HG_3 ugd
+Klebsiella-NL542:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wcaA kp9E wcnX wclL HG_3 gnd HG_4 HG_5 rmlD rmlC ugd
+Klebsiella-NL543:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wzx wzy gtf1 vatD lacA sunS gmd wcaG gmm wcaI wcaJ gnd HG_4 HG_5 HG_6 ugd
+Klebsiella-NL544:	galF HG_1 cpsACP wzi wza wzb wcaJ gnd HG_2 HG_3 ugd
+Klebsiella-NL545:	galF HG_1 cpsACP wzi wza wzb wzc HG_2 wcuD wcuC wcuI manC manB wbaZ wbaP wctH wctI wzx wcuJ gnd ugd
+Klebsiella-NL546:	galF HG_1 HG_2 wzi wza wzb wzc wzy wcmA wckA wfeD wzx rutE wclZ HG_3 wcaJ gnd wcuG ugd
+Klebsiella-NL547:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wbaP wcaA kp9E wclL gnd HG_4 rmlA rmlD rmlC ugd
+Klebsiella-NL548:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wzx wcoV kp14D wzy wcoU wcoT wcsF wcuK wbaZ wcaJ gnd HG_4 HG_5 HG_6 rmlA rmlD rmlC ugd
+Klebsiella-NL549:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wbaP wcaA wzy wcoY wcaM wcqP wzx wcuN HG_4 gnd HG_5 HG_6 rmlD rmlC ugd
+Klebsiella-NL550:	galF HG_1 HG_2 wzi wza wzb wzc wzx wzy gtf1 vatD lacA sunS gmd wcaG gmm wcaI wcaJ gnd HG_3 HG_4 HG_5 HG_6
+Klebsiella-NL551:	galF HG_1 cpsACP HG_2 wzi wza wzb wzc wckV wcoX wzy wcuF wckY wzx HG_3 HG_4 wcaJ gnd HG_5
+Klebsiella-NL552:	galF cpsACP HG_1 wzi wza wzb wzc wbaP wcuD wcuE wbaZ wzy HG_2 wzx wcuL wcoW gnd manC ugd
+Klebsiella-NL553:	galF cpsACP HG_1 wzi wza wzb wzc wbaP wcuD wcuE wbaZ wzy HG_2 wzx wcuL wcoW gnd HG_3 ugd
+Klebsiella-NL554:	galF HG_1 cpsACP wzi wza wzb wzc wzx gtf1 vatD lacA wcoS gmd wcaG gmm wcaI wcaJ gnd HG_2 HG_3 ugd
+Klebsiella-NL555:	galF HG_1 cpsACP wzi wza wzb wzc wckV wcoX wzy wcuF wckY wzx HG_2 HG_3 wcaJ gnd HG_4
+Klebsiella-NL556:	galF HG cpsACP wzi wza wzb wzc wcaJ wzy wcuP wclO wcuC gnd wcuA wbaZ wzx ugd
+Klebsiella-NL557:	galF HG_1 wzi wza wzb wzc wbaP wcuD wcuE wbaZ wzy wcuC wcaL wcuJ wzx wcsR gnd HG_2 HG_3 HG_4 ugd
+Klebsiella-NL558:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wcaA wcaJ wcqJ wcuP wclI HG_4 wzy wcqK wzx gnd HG_5 rmlA rmlD rmlC ugd
+Klebsiella-NL559:	galF HG_1 HG_2 wzi wza wzb wzc wzy wckM wcuQ wcuD epsH wzx wbaZ wcaJ wcuC gnd manC manB ugd
+Klebsiella-NL560:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wbaP kp9B kp9C kp9D kp9E kp9F wzx gnd HG_4 HG_5 HG_6 HG_7 rmlC ugd
+Klebsiella-NL561:	galF HG_1 HG_2 wzi wza wzb wzc wbaP wzy wciP wzx wcqZ wcuQ HG_3 wbaZ HG_4 HG_5 HG_6 gnd HG_7 HG_8 ugd
+Klebsiella-NL562:	galF HG_1 HG_2 wzi wza wzb wzc wcaJ wcuE wcuC pglJ wclV mtfB wzx wcuV wbaZ gnd HG_3 HG_4
+Klebsiella-NL563:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wcaA rmlB rmlA rmlC rmlD wcpI wzx wckG wcnX wzy wclI HG_2 HG_3 gnd HG_4
+Klebsiella-NL564:	galF HG_1 HG_2 cpsACP wzi wza wzb wzc wbap wzx wclV wckX wckW wzy manC manB wbaZ wcuC gnd ugd
+Klebsiella-NL565:	galF HG_1 HG_2 wzi wza wzb wzc wcuD wzy wcuE wcuC wbaZ wbaP wctH wctI wzx wcuJ gnd HG_3 HG_4 ugd
+Klebsiella-NL566:	galF HG_1 cpsACP wzi wza wzb wzc wcaJ wcuE wcuK wzy wbaZ wclH wckZ wcuT wzx gnd HG_2 HG_3 HG_4 rmlA rmlD rmlC ugd
+Klebsiella-NL567:	galF HG_1 cpsACP wzi wza wzb wzc wbaP wzy wciP wzx wcqZ wcuQ HG_2 wbaZ HG_3 gnd HG_4 HG_5 ugd
+Klebsiella-NL568:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wcaJ wcuE wcuK wzy wbaZ wclH wckZ wcuT wzx gnd HG_4 HG_5 manB HG_6 rmlA rmlD rmlC ugd
+Klebsiella-NL569:	galF HG_1 cpsACP wzi wza wzb wzc wzy wcuC wckM wckL wcuQ wzx wckK wbaZ wcaJ wclK gnd HG_2 HG_3 ugd
+Klebsiella-NL570:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wbaP kp9B kp9C kp9D kp9E kp9F wzx gnd HG_4 HG_5 rmlA rmlD rmlC ugd
+Klebsiella-NL571:	galF HG_1 HG_2 HG_3 wzi wza wzb wzc wbaP wcaA wcoY HG_4 wcaN wzy wcpL wcuT wzx gnd HG_5 HG_6 rmlA rmlD rmlC ugd
+Kluyvera-NL572:	galF rmlD rmlA rmlC wzx vioA vioB wbbA wbbB wzy wbbC wbbD manC manB gnd
+Kluyvera-NL573:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wzy wbaO wbaN manC manB wbaP gnd
+Kluyvera-NL574:	galF gne wbwH wzx glf wbbI weiA weiB weiC gnd
+Leclercia-NL575:	galF HG rmlB rmlD rmlA wzx wekA wfaL wekB wzy weiM gnd
+Leclercia-NL576:	galF rmlB rmlD rmlA wzx wcuR wfgI wbsY wzy gnd
+Leclercia-NL577:	galF rmlB rmlD rmlA wzx wekN wctS HG wfcA wekO gnd
+Leclercia-NL578:	galF HG rmlB rmlD rmlA wzx wclX wclU wbtF wfbG galE gnd
+Mangrovibacter-NL579:	galF manC1 manB wzy wclQ wclP wzx wcuQ wbaZ wbaP ugd gnd
+Rahnella-NL580:	galF wbhQ rmlB rmlD rmlA rmlC wzx gne wekM wzy wbsW wbuG wbbG wekS gnd
+Salmonella-NL581:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wbaU wbaN manC manB wbaP HG_2 gnd ugd
+Salmonella-NL582:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wbaU wbaN manC manB wbaP HG_2 gnd ugd
+Salmonella-NL583:	galF HG wzy wbaB wbaC wbaD manC manB wzx gnd ugd
+Salmonella-NL584:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaR wbaL wbaQ wzy wbaW wbaZ manC manB wbaP HG_2 gnd ugd
+Salmonella-NL585:	galF HG rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wbaU wbaN manC manB wbaP gnd ugd
+Salmonella-NL586:	galF HG rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wzy wbaU wbaN manC manB wbaP gnd ugd
+Salmonella-NL587:	galF HG_1 rmlB rmlD rmlA rmlC wzx wzy wbaO wbaN manC manB wbaP HG_2 gnd ugd
+Salmonella-NL588:	galF wzx weiA weiB weiC weiD gne gnd ugd
+Salmonella-NL589:	galF HG rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wbaU wbaN manC manB wbaP gnd ugd
+Salmonella-NL590:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wbaU wbaN manC manB wbaP HG_2 gnd
+Salmonella-NL591:	galF HG gne wfbG gmd fcl gmm manC manB wzx wzy wfbH wfbI gnd ugd
+Salmonella-NL592:	galF rmlB rmlA wzx vioA wfbA wfbB speG phaJ wfbE wzy wfbF fnlA qblA qnjB wbwH gnd ugd
+Salmonella-NL593:	galF HG wzy wbaC wbaD manC manB wzx gnd ugd
+Salmonella-NL594:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV HG_2 wzy wbaU wbaN manC manB wbaP HG_3 gnd ugd
+Salmonella-NL595:	galF HG_1 rmlB rmlD rmlA rmlC wdaA wzy wdaB wdaC manC manB wzx gnd HG_2 ugd
+Salmonella-NL596:	galF wzx wdaH wzy wdaI wdaJ wdaK gne yhhI wdaL gnd ugd
+Salmonella-NL597:	galF HG rmlB rmlD rmlA rmlC wdaA wzy wdaB wdaC manC manB wzx gnd ugd
+Salmonella-NL598:	galF HG gne wbwH gmd fcl gmm manC manB wzx wzy wfbH wfbI gnd ugd
+Salmonella-NL599:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wbaU wbaN manC manB wbaP HG_2 gnd HG_3 ugd
+Salmonella-NL600:	galF wfbV manC manB wzy wzx wfbX gnd ugd
+Salmonella-NL601:	galF HG rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaR wbaL wbaQ wzy wbaW wbaZ manC manB wbaP gnd ugd
+Salmonella-NL602:	galF HG rmlB rmlD rmlA rmlC wzx wzy wbaO wbaN manC manB wbaP gnd ugd
+Salmonella-NL603:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt wbaN manC manB wbaP HG_2 gnd ugd
+Salmonella-NL604:	galF wbdH gmd fcl gmm manC manB wbdN wzy wzx wbdO wbdP gnd col1 wbdK ugd
+Salmonella-NL605:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaR wbaL wbaQ wzy wbaW wbaZ manC manB wbaP HG gnd ugd
+Salmonella-NL606:	galF elb1 elb2 elb4 elb6 elb5 wdcK elb7 wdcL wzx wzy wdcM wbuX wbuY wbuZ fnlA fnlB fnlC wbuB wbuC gnd ugd
+Salmonella-NL607:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wbaU wbaN manC manB wbaP HG gnd ugd
+Salmonella-NL608:	galF HG_1 rmlB rmlD rmlA rmlC wzx wbaO wbaN manC manB wbaP HG_2 gnd ugd
+Salmonella-NL609:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wbaO wbaN manC manB wbaP gnd ugd
+Salmonella-NL610:	galF HG rmlB rmlD rmlA rmlC wzx mnaA wekM wzy wekN wdaW gnd ugd
+Salmonella-NL611:	galF gne rmlB rmlA fdtA fdtC fdtB wzx wdcO wzy wdcP wdcQ gnd ugd
+Salmonella-NL612:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wbaU wbaN manC manB wbaP HG_2 gnd
+Salmonella-NL613:	galF rmlB rmlA fdtA fdtF fdtB wzx wdcI wdcJ wzy wdaT manC manB gnd ugd
+Salmonella-NL614:	galF fnlA fnlB fnlC wbuB wzx wbuS wzy gnd ugd
+Salmonella-NL615:	galF HG wzy wdbK wzx wdbL wfbH wfbG gne yhhI wclK gnd ugd
+Salmonella-NL616:	galF wzx wfaS cat wzy HG wbuN wbuO wbgL gmd fcl gmm manC manB wbbD gnd ugd
+Salmonella-NL617:	galF HG bcs1 wzx wdbI wzy wdbJ wbuX wbuY wbuZ fnlA fnlB fnlC wbuB wbuC gnd ugd
+Salmonella-NL618:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wzy wbaO wbaN manC manB wbaP HG gnd ugd
+Salmonella-NL619:	galF gne wzx wzy wdaQ wdaR wdaS wdaT manC manB gnd ugd
+Salmonella-NL620:	galF HG rmlB rmlA qdtA qdtC qdtB wzx wdaO wzy wdaP gmd fcl gmm manC wdaG manB gnd ugd
+Salmonella-NL621:	galF wckD nanB nnaC nnaA wzx wzy wbuW wbuX wbuY wbuZ fnlA fnlB fnlC wbuB wbuC gnd
+Salmonella-NL622:	galF HG mnaA wzy wfbQ wzx wfbR wfbS glf wfbU gnd ugd
+Salmonella-NL623:	galF gne wbwH gmd fcl gmm manC manB wzx wzy wfbH wfbI gnd ugd
+Salmonella-NL624:	galF rmlB rmlD rmlA wzx glf wzy wdbQ wdbR rmlC wdaC gne gnd ugd
+Salmonella-NL625:	galF wzx wdaH wzy wdaI wdaJ wdaK gne wdaL gnd ugd
+Salmonella-NL626:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wbaO wbaN manC manB wbaP HG_2 gnd ugd
+Salmonella-NL627:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wzy wbaO wbaN manC manB wbaP HG_2 gnd ugd
+Salmonella-NL628:	galF wbaC wbaD manC manB wzy wzx gnd ugd
+Salmonella-NL629:	galF rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wbaU wbaN manC manB wbaP HG gnd ugd
+Salmonella-NL630:	galF HG wbaC wbaD manC manB wzy wzx gnd ugd
+Salmonella-NL631:	galF HG_1 rmlB rmlD rmlA rmlC wzx wzy wbaO wbaN manC manB wbaP HG_2 HG_3 gnd ugd
+Salmonella-NL632:	galF rmlB rmlA fdtA fdtC fdtB wzx wdbT wdbU wzy wdbV wfbG gne gnd ugd
+Salmonella-NL633:	galF HG wzx wdaX wzy wdaY wdaZ wdaW gnd ugd
+Salmonella-NL634:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV HG_2 wzy wbaO wbaN manC manB wbaP gnd ugd
+Salmonella-NL635:	galF HG_1 wbyJ manC manB wzx wzy wbuH fnlA qnlA qnlB wbwH wbuC gnd HG_2 ugd
+Salmonella-NL636:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaV wzy wbaU wbaN manC manB wbaP HG_2 gnd ugd
+Salmonella-NL637:	galF HG rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC prt tyv wzx wbaV wzy wbaO wbaN manC manB wbaP gnd ugd
+Salmonella-NL638:	galF HG_1 rmlB rmlD rmlA rmlC ddhD ddhA ddhB ddhC abe wzx wbaR wbaL wbaQ wzy wbaW wbaZ manC manB wbaP HG_2 gnd HG_3 ugd
+Serratia-NL639:	galF wbhQ wza wzb wzc wzx HG_1 HG_2 vioA vioB wbqE weiB wzy wejW wbbD HG_3 galE rmlB rmlC rmlD wfaL wzm wzt HG_4 gnd
+Serratia-NL640:	galF wza wzb wzc wcuD wcuE wbaZ wbaP neuA legI wzx wcsW HG_1 wzy HG_2 wcoZ manC manB galE rmlB rmlA rmlC rmlD wekZ wzm wzt HG_3 gnd
+Serratia-NL641:	galF wbhQ wza wzb wzc wzx vioA vioB wbqE weiB HG_1 wejW wbbD galE rmlB rmlC rmlD wekZ HG_2 wzm wzt HG_3 gnd
+Serratia-NL642:	galF wbhQ wza wzb wzc wbbD HG_1 wzx HG_2 wekY HG_3 galE rmlB rmlA rmlC rmlD wfaL wzm wzt HG_4 gnd
+Trabulsiella-NL643:	galF elg1 elg2 elg3 elg4 elg5 elg6 lea7 HG_1 HG_2 wdcM wzx fnlA fnlB fnlC wbuB wbuC gnd
+Trabulsiella-NL644:	galF weiO weiP weiQ wzx fnlA wekJ wzy wbsG weiG gnd HG
+Trabulsiella-NL645:	galF rmlB rmlD rmlA rmlC qdtA qdtB wzx wdaN wzy wfbY wfbZ gnd
+Yokenella-NL646:	galF rmlB wbhP wbhQ wbhR wbhS rmlC wbhT wbhV wbhW rmlA gnd ugd

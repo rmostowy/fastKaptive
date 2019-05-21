@@ -1,0 +1,88 @@
+library(seqinr)#
+#
+prokka.db.name <- "cps_esk"#
+prokka.path.name <- "/usr/local/Cellar/prokka/HEAD-12547ca_1/db/genus"#
+#
+source("~/Dropbox/Applications/myRlib/custom-functions.R")#
+temp.folder.name <- "tmp.prokka"#
+make.dir(temp.folder.name)#
+#
+genes <- read.fasta("database/genes.fa")#
+genes.pr <- lapply(1:length(genes), function(k) translate(genes[[k]]))#
+genes.n <- names(genes)#
+gn <- sapply(1:length(genes.n), function(k) strsplit(genes.n[k], "-")[[1]][3])#
+name.unknown <- 1:length(gn) %in% grep("HG", gn)#
+no.stop.codons <- sapply(1:length(gn), function(k) length(which(genes.pr[[k]]=="*")))#
+is.pseudogene <- no.stop.codons>1#
+#
+gene.for.db <- !name.unknown & !is.pseudogene#
+genes.new <- genes[which(gene.for.db)]#
+genes.new.n <- names(genes.new)#
+gn.new <- sapply(1:length(genes.new.n), function(k) strsplit(genes.new.n[k], "-")[[1]][3])#
+genes.pr.new <- lapply(1:length(genes.new), function(k) translate(genes.new[[k]]))#
+genes.n.final <- sprintf("cds.%d ~~~%s~~~%s", 1:length(genes.new.n), gn.new, gn.new)#
+#
+genes.final.filename <- sprintf("%s/genesdb.fa", temp.folder.name)#
+write.fasta(genes.pr.new, names = genes.n.final, genes.final.filename)
+gn
+genes.n
+gn <- sapply(1:length(genes.n), function(k) strsplit(genes.n[k], "__")[[1]][2])
+genes.n
+gn
+library(seqinr)#
+#
+prokka.db.name <- "cps_esk"#
+prokka.path.name <- "/usr/local/Cellar/prokka/HEAD-12547ca_1/db/genus"#
+#
+source("~/Dropbox/Applications/myRlib/custom-functions.R")#
+temp.folder.name <- "tmp.prokka"#
+make.dir(temp.folder.name)#
+#
+genes <- read.fasta("database/genes.fa")#
+genes.pr <- lapply(1:length(genes), function(k) translate(genes[[k]]))#
+genes.n <- names(genes)#
+gn <- sapply(1:length(genes.n), function(k) strsplit(genes.n[k], "__")[[1]][2])#
+name.unknown <- 1:length(gn) %in% grep("HG", gn)#
+no.stop.codons <- sapply(1:length(gn), function(k) length(which(genes.pr[[k]]=="*")))#
+is.pseudogene <- no.stop.codons>1#
+#
+gene.for.db <- !name.unknown & !is.pseudogene#
+genes.new <- genes[which(gene.for.db)]#
+genes.new.n <- names(genes.new)#
+gn.new <- sapply(1:length(genes.new.n), function(k) strsplit(genes.new.n[k], "-")[[1]][3])#
+genes.pr.new <- lapply(1:length(genes.new), function(k) translate(genes.new[[k]]))#
+genes.n.final <- sprintf("cds.%d ~~~%s~~~%s", 1:length(genes.new.n), gn.new, gn.new)#
+#
+genes.final.filename <- sprintf("%s/genesdb.fa", temp.folder.name)#
+write.fasta(genes.pr.new, names = genes.n.final, genes.final.filename)
+name.unknown
+genes.new
+genes.new.n
+gn.new <- sapply(1:length(genes.new.n), function(k) strsplit(genes.new.n[k], "__")[[1]][2])
+gn.new
+genes.pr.new <- lapply(1:length(genes.new), function(k) translate(genes.new[[k]]))#
+genes.n.final <- sprintf("cds.%d ~~~%s~~~%s", 1:length(genes.new.n), gn.new, gn.new)
+genes.final.filename <- sprintf("%s/genesdb.fa", temp.folder.name)#
+write.fasta(genes.pr.new, names = genes.n.final, genes.final.filename)
+gn.new
+gn.new
+grep("HYP_PROT")
+grep("HYP_PROT", gn.new)
+grepl("HYP_PROT", gn.new)
+!grepl("HYP_PROT", gn.new)
+gene.names.are.known <- !grepl("HYP_PROT", gn.new)
+gene.names.are.known
+genes.n.final <- genes.n.final[gene.names.are.known]#
+genes.pr.new <- genes.pr.new[gene.names.are.known]
+genes.final.filename <- sprintf("%s/genesdb.fa", temp.folder.name)#
+write.fasta(genes.pr.new, names = genes.n.final, genes.final.filename)
+run.cdhit.cmd <- sprintf("cd-hit -i %s/genesdb.fa -o %s/%s -T 0 -M 0 -g 1 -s 0.8 -c 0.9", temp.folder.name, temp.folder.name, prokka.db.name)#
+remove.cmd <- sprintf("rm -fv %s/%s.clstr", temp.folder.name, prokka.db.name)#
+makedb.cmd <- sprintf("makeblastdb -dbtype prot -in %s/%s", temp.folder.name, prokka.db.name)#
+cp.cmd <- sprintf("cp %s/%s* %s", temp.folder.name, prokka.db.name, prokka.path.name)#
+#
+system(run.cdhit.cmd)#
+system(remove.cmd)#
+system(makedb.cmd)#
+system(cp.cmd)
+system(sprintf("rm -rf %s", temp.folder.name))

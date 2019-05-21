@@ -1,0 +1,106 @@
+Escherichia-K2ab:	kpsF kpsE kpsD kpsU kpsC kpsS HG xcbB tagB cpsC tagD kpsT kpsM
+Escherichia-K20:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 HG_2 HG_3 HG_4 kpsT kpsM
+Escherichia-K24:	kpsF kpsE kpsD kpsU kpsC kpsS tnpA HG_1 HG_2 HG_3 tagB HG_4 tagD kpsT kpsM
+Escherichia-K92:	kpsF kpsE kpsD kpsU kpsC kpsS neuS neuE neuC neuA neuB neuD kpsT kpsM
+Escherichia-K11:	kpsD kpsM kpsT kpsE tnpA HG_1 galU capC tarQ HG_2 ecbF wejS bcbE kpsC kpsS
+Escherichia-K96:	kpsD kpsM kpsT kpsE HG_1 wcaA HG_2 ugd HG_3 wsaE HG_4 HG_5 rmlB rmlD rmlA rmlC kpsC kpsS
+Escherichia-NL1:	kpsF kpsE kpsD kpsU kpsC kpsS wffJ ugd wbnC glf orf5 HG_1 HG_2 kpsT kpsM
+Escherichia-NL2:	kpsF kpsE kpsD kpsU kpsC kpsS wffJ ugd wbnC glf orf5 HG_1 HG_2 HG_3 kpsT kpsM
+Escherichia-NL3:	kpsF kpsE kpsD kpsU kpsC kpsS HG bcs1 wffG kpsT kpsM
+Escherichia-NL4:	kpsF kpsE kpsD kpsU kpsC kpsS wcqZ HG kpsT kpsM
+Citrobacter-NL5:	kpsE kpsD kpsC kpsS wfaD HG kpsT kpsM
+Escherichia-NL6:	kpsF kpsE kpsD kpsU kpsC kpsS wbnC HG_1 HG_2 kpsT kpsM
+Escherichia-NL7:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 kpsT wfbH gna gne HG_2 HG_3 HG_4 kpsM
+Escherichia-NL8:	kpsF kpsE kpsD kpsU kpsC kpsS tnpA HG_1 HG_2 HG_3 tagB HG_4 tagD HG_5 kpsT kpsM
+Escherichia-NL9:	kpsF kpsE kpsD kpsU kpsC kpsS kpsM kpsT
+Escherichia-NL10:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 HG_2 neuS neuE neuC neuA neuB neuD kpsT kpsM
+Escherichia-NL11:	kpsF kpsE kpsD kpsU kpsC kpsS wbnC HG kpsT kpsM
+Escherichia-NL12:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 HG_2 tagB HG_3 tagD HG_4 kpsT kpsM
+Escherichia-NL13:	kpsF kpsE kpsD kpsU kpsC kpsS wegH HG_1 HG_2 gne galE kpsT kpsM
+Escherichia-NL14:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 kpsT HG_2 wfeA wecC gna gne HG_3 HG_4 HG_5 kpsM
+Escherichia-NL15:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 wegH HG_2 kpsT kpsM
+Escherichia-NL16:	kpsF kpsE kpsD kpsU kpsC kpsS neuS neuE neuC neuA neuB neuD kpsT kpsM
+Escherichia-NL17:	kpsF kpsE kpsD kpsU kpsC kpsS ugd wfdV HG_1 HG_2 HG_3 kpsT kpsM
+Escherichia-NL18:	kpsF kpsE kpsD kpsU kpsC kpsS wejS wejR wejT wcaF kpsT tarQ HG kpsM
+Escherichia-NL19:	kpsF kpsE kpsD kpsU kpsC kpsS ugd HG_1 HG_2 wfdV HG_3 HG_4 HG_5 kpsT kpsM
+Escherichia-NL20:	kpsF kpsE kpsD kpsU kpsC kpsS ugd wfdV HG_1 HG_2 HG_3 HG_4 kpsT kpsM
+Escherichia-NL21:	kpsF kpsE kpsD kpsU kpsC kpsS wejS wejR wejT wcaF kpsT tarQ HG_1 HG_2 HG_3 kpsM
+Escherichia-NL22:	kpsF kpsE kpsD kpsU kpsC kpsS cat HG gne galE kpsT kpsM
+Escherichia-NL23:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 HG_2 HG_3 HG_4 kpsT kpsM
+Escherichia-NL24:	kpsF kpsE kpsD kpsU kpsC kpsS HG wdbN kpsT kpsM
+Escherichia-NL25:	kpsF kpsE kpsD kpsU kpsC kpsS HG wbaD kpsT kpsM
+Escherichia-NL26:	kpsF kpsE kpsD kpsU kpsC kpsS HG xcbB tagB cpsC tagD kpsT kpsM
+Escherichia-NL27:	kpsF kpsE kpsD kpsU kpsC kpsS kpsM kpsT
+Escherichia-NL28:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 kpsT HG_2 wfeA gna gne HG_3 HG_4 HG_5 kpsM
+Escherichia-NL29:	kpsF kpsE kpsD kpsU kpsC kpsS wcqZ HG kpsT kpsM
+Escherichia-NL30:	kpsF kpsE kpsD kpsU kpsC kpsS wffJ ugd HG_1 wbsK HG_2 gne HG_3 kpsT kpsM
+Escherichia-NL31:	kpsF kpsE kpsD kpsU kpsC kpsS wejS wejR wejT HG_1 HG_2 kpsT kpsM
+Phytobacter-NL32:	kpsF kpsE kpsD kpsC kpsS HG_1 HG_2 HG_3 tarQ HG_4 kpsT kpsM
+Phytobacter-NL33:	kpsF kpsE kpsD kpsC kpsS HG_1 wdbN HG_2 HG_3 kpsT kpsM
+Phytobacter-NL34:	kpsF kpsE kpsD kpsC kpsS wcpL HG_1 rmlC rmlD rmlA rmlB capC HG_2 kpsT kpsM
+Yersinia-NL35:	kpsE kpsD kpsC kpsS tarQ HG capC kpsT kpsM
+Yersinia-NL36:	kpsE kpsD kpsC kpsS HG_1 gne HG_2 wcaN kpsT kpsM
+Pantoea-NL37:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 HG_2 kpsT wdbN kpsM
+Yersinia-NL38:	kpsE kpsD kpsC kpsS HG wclW kpsT kpsM
+Cronobacter-NL39:	kpsE HG_1 kpsD kpsC kpsS HG_2 HG_3 tarQ capC kpsT kpsM
+Cronobacter-NL40:	kpsE kpsD kpsC kpsS HG tarQ capC kpsT kpsM
+Cronobacter-NL41:	kpsE HG_1 kpsD kpsC kpsS HG_2 tarQ capC kpsT kpsM
+Leclercia-NL42:	kpsD kpsM kpsT kpsE smc wctL HG_1 ugd HG_2 HG_3 wsaE HG_4 rmlB rmlD rmlA rmlC kpsC
+Pantoea-NL43:	kpsD kpsM kpsT kpsE HG_1 HG_2 wcaA HG_3 ugd HG_4 wsaE HG_5 rmlB rmlD rmlA rmlC kpsC kpsS
+Escherichia-NL44:	kpsD kpsM kpsT kpsE HG_1 smc wctL HG_2 ugd HG_3 HG_4 wsaE HG_5 rmlB rmlD rmlA rmlC kpsC kpsS
+Escherichia-NL45:	kpsD kpsM kpsT kpsE smc wctL HG_1 ugd HG_2 HG_3 HG_4 wsaE HG_5 rmlB rmlD rmlA rmlC kpsC kpsS
+Escherichia-NL46:	kpsD kpsM kpsT kpsE smc wctL HG_1 ugd HG_2 HG_3 wsaE HG_4 rmlB rmlD rmlA rmlC kpsC kpsS
+Enterobacter-NL47:	kpsE kpsD kpsC kpsS HG_1 tarQ HG_2 capC kpsT kpsM
+Citrobacter-NL48:	kpsE kpsD kpsC kpsS xcbB capC HG wfaQ tarQ kpsT kpsM
+Leclercia-NL49:	kpsD kpsM kpsT kpsE smc wctL HG_1 ugd HG_2 HG_3 wsaE HG_4 rmlB rmlD rmlA rmlC kpsC kpsS
+Citrobacter-NL50:	kpsE kpsD kpsC kpsS xcbB capC HG wfaQ kpsT kpsM
+Citrobacter-NL51:	kpsE kpsD kpsC kpsS HG wbsI tagB cpsC tagD kpsT kpsM
+Cronobacter-NL52:	kpsE kpsD kpsC kpsS HG_1 HG_2 tarQ capC kpsT kpsM
+Cronobacter-NL53:	kpsE kpsD kpsC kpsS HG_1 tarQ HG_2 HG_3 capC kpsT kpsM
+Cronobacter-NL54:	kpsE kpsD kpsC kpsS HG_1 tarQ capC HG_2 kpsT kpsM
+Cronobacter-NL55:	kpsE kpsD kpsC kpsS HG_1 tarQ HG_2 capC kpsT kpsM
+Enterobacter-NL56:	kpsD kpsM kpsT kpsE HG_1 HG_2 wcaA HG_3 HG_4 ugd HG_5 wsaE HG_6 rmlB rmlD HG_7 rmlA rmlC kpsC HG_8
+Erwinia-NL57:	kpsD kpsM kpsT kpsE wcuD HG_1 HG_2 HG_3 wsaE HG_4 rmlB rmlD rmlA rmlC kpsC kpsS
+Escherichia-NL58:	kpsF kpsE kpsD kpsU kpsC kpsS wffJ ugd HG_1 wbsK HG_2 gne kpsT kpsM
+Escherichia-NL59:	kpsF kpsE kpsD kpsU kpsC kpsS tnpA HG_1 HG_2 HG_3 tagB HG_4 tagD kpsT kpsM
+Escherichia-NL60:	kpsD kpsM kpsT kpsE smc wcaA HG_1 ugd HG_2 wsaE HG_3 rmlB rmlD rmlA rmlC kpsC kpsS
+Escherichia-NL61:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 HG_2 tagB HG_3 tagD kpsT kpsM
+Escherichia-NL62:	kpsF kpsE kpsD kpsU kpsC kpsS ugd wfdV HG_1 HG_2 HG_3 HG_4 kpsT kpsM
+Escherichia-NL63:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 kpsT wfbH gna gne HG_2 HG_3 HG_4 kpsM
+Escherichia-NL64:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 HG_2 kpsT wfbH gna gne HG_3 HG_4 HG_5 kpsM
+Escherichia-NL65:	kpsD kpsM kpsT kpsE HG_1 HG_2 HG_3 wcaA HG_4 ugd HG_5 wsaE HG_6 rmlB rmlD rmlA rmlC kpsC kpsS HG_7
+Escherichia-NL66:	kpsF kpsE kpsD kpsU kpsC tnpA kpsS wejS wejR wejT wcaF kpsT tarQ HG kpsM
+Escherichia-NL67:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 kpsT HG_2 wfeA gna gne HG_3 HG_4 HG_5 HG_6 kpsM
+Escherichia-NL68:	kpsF kpsE kpsD kpsU kpsC kpsS wegH HG gne kpsT kpsM
+Escherichia-NL69:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 xcbB HG_2 tagB cpsC tagD kpsT kpsM
+Escherichia-NL70:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 kpsT HG_2 wfeA gna gne HG_3 HG_4 HG_5 kpsM
+Escherichia-NL71:	kpsF kpsE kpsD kpsU kpsC kpsS wejS wejR wejT wcaF kpsT tarQ tnpA HG_1 HG_2 kpsM
+Escherichia-NL72:	kpsF kpsE kpsD kpsU kpsC kpsS wejS wejR wejT HG_1 tnpA wcaF kpsT tarQ HG_2 kpsM
+Escherichia-NL73:	kpsF kpsE kpsD kpsU kpsC kpsS tnpA wegH HG kpsT kpsM
+Escherichia-NL74:	kpsF kpsE kpsD kpsU kpsC kpsS wejS wejR wejT HG_1 HG_2 wdbN kpsT kpsM
+Escherichia-NL75:	kpsD kpsM kpsT kpsE wfbE vioA wbdR HG_1 yhhI HG_2 wsaE HG_3 rmlB rmlD rmlA rmlC kpsC kpsS
+Escherichia-NL76:	kpsD kpsM kpsT kpsE HG_1 wcaA wcpL ugd HG_2 wsaE HG_3 rmlB rmlD rmlA rmlC kpsC HG_4
+Escherichia-NL77:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 bcs1 HG_2 wffG kpsT kpsM
+Escherichia-NL78:	kpsD kpsM kpsT kpsE wfbE vioA wbdR HG_1 HG_2 wsaE HG_3 rmlB rmlD rmlA rmlC kpsC kpsS
+Escherichia-NL79:	kpsE kpsD kpsU kpsC kpsS ugd wfdV HG_1 HG_2 HG_3 kpsT kpsM
+Escherichia-NL80:	kpsF kpsE kpsD kpsU kpsC kpsS wffJ ugd HG_1 HG_2 wbsK HG_3 gne kpsT kpsM
+Escherichia-NL81:	kpsF kpsE kpsD kpsU kpsC kpsS cat HG_1 HG_2 gne galE kpsT kpsM
+Escherichia-NL82:	kpsF kpsE kpsD kpsU kpsC kpsS neuE neuC neuA neuB neuD kpsT kpsM
+Escherichia-NL83:	kpsF kpsE kpsD kpsU kpsC kpsS wejS ecbF wejT wcaF kpsT tarQ HG kpsM
+Escherichia-NL84:	kpsC kpsS ugd wfdV HG_1 HG_2 HG_3 kpsT kpsM
+Escherichia-NL85:	kpsF kpsE kpsD kpsU kpsC kpsS wejS ecbF wejT HG_1 HG_2 kpsT tarQ HG_3 kpsM
+Escherichia-NL86:	kpsF kpsE kpsD kpsU kpsC kpsS wejS wejR wejT wcaF kpsT tarQ HG_1 HG_2 kpsM
+Escherichia-NL87:	kpsF kpsE kpsD kpsU kpsC kpsS HG_1 kpsT HG_2 wfeA wecC gna gne HG_3 HG_4 HG_5 kpsM
+Escherichia-NL88:	kpsF kpsE kpsD kpsU kpsC kpsS wffJ ugd wbnC HG_1 glf orf5 HG_2 HG_3 kpsT kpsM
+Escherichia-NL89:	kpsD kpsM kpsT kpsE HG_1 wcaA HG_2 HG_3 ugd HG_4 wsaE HG_5 rmlB rmlD rmlA rmlC kpsC HG_6
+Escherichia-NL90:	kpsF kpsE kpsD kpsU kpsC kpsS wffJ ugd wbnC glf orf5 HG_1 HG_2 HG_3 kpsT kpsM
+Escherichia-NL91:	kpsD kpsM kpsT kpsE smc wctL HG_1 ugd HG_2 HG_3 wsaE HG_4 rmlB rmlD rmlA rmlC kpsC
+Ewingella-NL92:	kpsE kpsD kpsC kpsS HG_1 wfaD HG_2 wcsR capC kpsT kpsM
+Kluyvera-NL93:	kpsE kpsD kpsC kpsS HG tarQ capC kpsT kpsM
+Leclercia-NL94:	kpsD kpsM kpsT kpsE smc wctL HG_1 ugd HG_2 HG_3 wsaE HG_4 rmlB rmlD HG_5 rmlA rmlC kpsC kpsS
+Leclercia-NL95:	kpsD kpsM kpsT kpsE HG_1 wfdV HG_2 HG_3 HG_4 HG_5 wfeA ugd HG_6 wsaE HG_7 rmlB rmlD HG_8 rmlA rmlC kpsC kpsS
+Leclercia-NL96:	kpsD kpsM kpsT kpsE HG_1 HG_2 ugd HG_3 wsaE HG_4 rmlB rmlD rmlA rmlC kpsC
+Yersinia-NL97:	kpsE kpsD kpsC kpsS HG_1 HG_2 HG_3 tarQ capC kpsT kpsM
+Yersinia-NL98:	kpsE kpsD kpsC kpsS HG_1 HG_2 gne HG_3 wcaN kpsT kpsM
+Yersinia-NL99:	kpsE kpsD kpsC kpsS HG tarQ capC kpsT kpsM
+Yersinia-NL100:	kpsE kpsD kpsC kpsS HG_1 HG_2 tarQ HG_3 capC kpsT kpsM
