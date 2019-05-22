@@ -10,7 +10,7 @@
 The approach is based on a previously published and tested method, `Kaptive` [3], but has been reoptimised for scanning large sets of genomes by avoiding `tblastx` and using `blastn` instead. 
 
 ## Dependencies
-The software uses `blastn` and `gzip` as dependencies, and it order to work they should be installed prior to using `fastKaptive' and the commands should be visible in `PATH'. Also, these R packages need to be installed beforehand via the `install.packages()' command:
+The software uses `blastn` and `gzip` as dependencies, and it order to work they should be installed prior to using `fastKaptive` and the commands should be visible in `PATH`. Also, these R packages need to be installed beforehand via the `install.packages()` command:
 * `seqinr`
 * `igraph `
 * `optparse `
