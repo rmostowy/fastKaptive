@@ -41,6 +41,16 @@ Options:
 		Show this help message and exit
 ```
 
+The first option `-l` specifies the locus which should be searched, either *cps* or *kps*. Any other option will return an error.
+
+The second option `-e` specifies whether an extended database should be used. By default the code uses a high-quality locus references from *Klebsiella*, *Escherichia/Shigella* and *Salmonella* for *cps* and only *Escherichia* for *kps*. However, an extended reference database, obtained by searching 27,365 genomes of Enterobacteriales in [1], and extracting good quality loci from draft genomes, amounting to 994 references for *cps* and 106 references for *kps*.
+
+The third option `-D` specifies whether `blastn` option should be used with `blast` instead of `megablast`: if used, a more time-consuming search will ensue, resulting in more accurate searches in other species of Enterobacteriales. It is recommended to use when searching outside of the Enterobacteriaceae family.
+
+The fourth option `-p` specifies the location of a file with assembly paths. If these paths are incorrect, the code will return an error. **This is a mandatory option.**
+
+The fifth option `-o` specifies the name of the output folder.
+
 
 ## Examples
 
