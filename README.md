@@ -10,7 +10,10 @@
 The approach is based on a previously published and tested method, `Kaptive` [3], but has been reoptimised for scanning large sets of genomes by avoiding `tblastx` and using `blastn` instead. 
 
 ## Dependencies
-The software uses several other programmes, and it order to work they should be installed prior to using `fastKaptive' and the commands should be 
+The software uses `blastn` and `gzip` as dependencies, and it order to work they should be installed prior to using `fastKaptive' and the commands should be visible in `PATH'. Also, these R packages need to be installed beforehand via the `install.packages()' command:
+* `seqinr`
+* `igraph `
+* `optparse `
 
 ## How to use it?
 The code was developed on Mac OS X and should work on Linux-based platforms via a command line. The programme should be launched from a working directory by revoking:
@@ -50,9 +53,6 @@ The third option `-D` specifies whether `blastn` option should be used with `bla
 The fourth option `-p` specifies the location of a file with assembly paths. If these paths are incorrect, the code will return an error. **This is a mandatory option.**
 
 The fifth option `-o` specifies the name of the output folder.
-
-
-## Examples
 
 ## References
 
