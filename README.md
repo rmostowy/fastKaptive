@@ -19,4 +19,4 @@
 ## References
 
 1. Holt KE, Lassalle F, Wyres KL, Wick R & Mostowy RJ, *Diversity and evolution of surface polysaccharide synthesis loci in Enterobacteriales*, submitted
-2. Whitfield C *Biosynthesis and assembly of capsular polysaccharides in Escherichia coli*, Annu Rev Biochem. 2006;75(1):39-68. [doi:10.1146/annurev.biochem.75.103004.142545].
+2. Whitfield C *Biosynthesis and assembly of capsular polysaccharides in Escherichia coli*, Annu Rev Biochem. 2006;75(1):39-68. [doi:10.1146/annurev.biochem.75.103004.142545][doi:10.1146/annurev.biochem.75.103004.142545].
